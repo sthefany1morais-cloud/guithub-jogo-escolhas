@@ -1,0 +1,19 @@
+package Jogo;
+
+public abstract class Arvore {
+    protected String texto;
+    protected int familia;
+    protected int crime;
+
+    public Arvore(String texto, int familia, int crime){
+        this.texto = texto;
+        this.familia = familia;
+        this.crime = crime;
+    }
+
+    protected void mostrarTexto(){
+        System.out.println("\n" + texto);
+    }
+
+    public abstract void Executar(Jogador jogador);
+}

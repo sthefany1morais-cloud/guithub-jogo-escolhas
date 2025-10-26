@@ -1,0 +1,7 @@
+VALOR: 1
+Texto: A verdade vem à tona — o acidente não foi um acaso.
+Você descobre o envolvimento de pessoas próximas e decide seguir em frente, sabendo que a justiça está feita.
+
+VALOR: 3
+Texto: Você se aproxima de sua família e reencontra algum conforto.
+Ainda assim, as perguntas sobre o acidente continuam em sua mente.
