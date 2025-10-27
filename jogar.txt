@@ -29,7 +29,7 @@ CRIME: 1
 FIM: true
 
 ID: 4
-TIPO: FOLHA
+TIPO: FOL
 Texto: Você consegue informações sobre o acidente e descobre pistas importantes. Sua investigação avança.
 FAMILIA: 0
 CRIME: 3

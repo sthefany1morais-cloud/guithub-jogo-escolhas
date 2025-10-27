@@ -10,12 +10,12 @@ public class ConstrutorJogo {
     }
 
     public Arvore criarArvore(){
-        List<NoTemporario> temp = lerArquivo();
+        List<NoTemporario> temp = lerArvores();
         List<Arvore> real = criarArvores(temp);
         return conectarFilhos(temp, real);
     }
 
-    private List<NoTemporario> lerArquivo(){
+    private List<NoTemporario> lerArvores(){
         List<NoTemporario> nos = new ArrayList<>();
         try (Scanner leitor = new Scanner(new File(this.arquivo), "UTF-8")){
 
@@ -33,12 +33,7 @@ public class ConstrutorJogo {
                         !linha.split(":", 2)[0].equalsIgnoreCase("OPCAO")){
                     texto.append(linha).append("\n");
                 }
-
                 if (linha.isEmpty()){
-                    if (atual != null) {
-                        nos.add(atual);
-                        atual = null;
-                    }
                     continue;
                 }
 
@@ -53,6 +48,10 @@ public class ConstrutorJogo {
 
                 switch (chave.toUpperCase()){
                     case "ID":
+                        if (atual != null) {
+                            nos.add(atual);
+                            atual = null;
+                        }
                         atual = new NoTemporario(Integer.parseInt(valor));
                         break;
 
@@ -133,9 +132,11 @@ public class ConstrutorJogo {
 
             switch (no.tipo){
                 case "BIN":
+                case "BINARIA":
                     muda = new Binaria(no.texto, no.opcao1, no.opcao2, null, null, no.familia, no.crime);
                     break;
                 case "UNA":
+                case "UNARIA":
                     muda = new Unaria(no.texto, no.opcao1, null, no.familia, no.crime);
                     break;
                 case "FOL":
@@ -167,7 +168,7 @@ public class ConstrutorJogo {
         return reais.getFirst();
     }
 
-    private Map<Integer, String> lerBusca(){
+    private Map<Integer, String> lerFinais(){
         Map<Integer, String> nos = new TreeMap<>();
         try (Scanner leitor = new Scanner(new File(this.arquivo), "UTF-8")) {
             boolean lendo = false;
@@ -213,6 +214,8 @@ public class ConstrutorJogo {
 
                 }
 
+            } if (atual != null) {
+                nos.put(Integer.parseInt(atual), texto.toString().trim());
             }
         } catch (Exception e){
             //Apenas ignorar
@@ -220,7 +223,7 @@ public class ConstrutorJogo {
         return nos;
     }
 
-    private Busca buscaRecursiva(Map<Integer, String> mapa, List<Integer> chaves, int inicio, int fim){
+    private ArvoreDeFinais montarArvoreDeFinais(Map<Integer, String> mapa, List<Integer> chaves, int inicio, int fim){
         if (inicio> fim){
             return null;
         }
@@ -228,10 +231,10 @@ public class ConstrutorJogo {
         int meio = (inicio + fim)/2;
         int valor = chaves.get(meio);
 
-        Busca raiz = new Busca(mapa.get(valor), valor);
+        ArvoreDeFinais raiz = new ArvoreDeFinais(mapa.get(valor), valor);
 
-        Busca esquerda = buscaRecursiva( mapa, chaves, inicio, meio-1);
-        Busca direita = buscaRecursiva( mapa, chaves, meio+1, fim);
+        ArvoreDeFinais esquerda = montarArvoreDeFinais( mapa, chaves, inicio, meio-1);
+        ArvoreDeFinais direita = montarArvoreDeFinais( mapa, chaves, meio+1, fim);
 
         if (esquerda != null){
             raiz.inserir(esquerda.texto, esquerda.valor);
@@ -242,10 +245,10 @@ public class ConstrutorJogo {
         return raiz;
     }
 
-    public Busca criarBusca(){
-        Map<Integer, String> correspondentes = lerBusca();
+    public ArvoreDeFinais criarArvoreDeFinais(){
+        Map<Integer, String> correspondentes = lerFinais();
         List<Integer> valores = new ArrayList<>(correspondentes.keySet());
-        return buscaRecursiva(correspondentes, valores, 0, valores.size()-1);
+        return montarArvoreDeFinais(correspondentes, valores, 0, valores.size()-1);
 
     }
 }

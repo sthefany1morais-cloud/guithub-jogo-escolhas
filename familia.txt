@@ -5,4 +5,3 @@ O silêncio do hospital te consome, e o mistério do acidente permanece sem resp
 VALOR: 3
 Texto: Você se aproxima de sua família e reencontra algum conforto.
 Ainda assim, as perguntas sobre o acidente continuam em sua mente.
-

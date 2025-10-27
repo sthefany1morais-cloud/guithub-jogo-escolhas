@@ -2,13 +2,35 @@ package Jogo;
 
 import java.util.Scanner;
 
-public class Valida {
+public class Utilidades {
     private static final Scanner leitor = new Scanner(System.in);
 
-    public static boolean Bi(String op1, String op2) {
+    public static void imprimirComPausa(String texto, int menor, int maior){
+        String[] linhas = texto.split("\n");
+        System.out.println();
+        for (String linha: linhas){
+            linha = linha.trim();
+            if (linha.isEmpty()){
+                esperar(maior);
+                continue;
+            }
+            System.out.println(linha);
+            esperar(menor);
+        }
+    }
+
+    public static void esperar(int milisegundos){
+        try{
+            Thread.sleep(milisegundos);
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+        }
+    }
+
+    public static boolean escolhaBinaria(String op1, String op2) {
         while (true) {
             System.out.printf("""
-                Você deseja: 
+                \nVocê deseja: 
                 1- %s
                 2- %s
                 Digite aqui:\s""", op1, op2);
@@ -28,10 +50,10 @@ public class Valida {
         }
     }
 
-    public static void Uni(String op) {
+    public static void escolhaUnaria(String op) {
         while (true) {
             System.out.printf("""
-                    Você deseja: 
+                    \nVocê deseja: 
                     1- %s
                     Digite aqui:\s""", op);
             try {
