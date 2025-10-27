@@ -3,33 +3,30 @@ package Jogo;
 public class Unaria extends Arvore {
 
     private String opcao;
-            Arvore filho;
+    Arvore filho;
 
-    public Unaria(String texto,
-                   String opcao, Arvore filho,
-                   int familia, int crime){
-
+    public Unaria(String texto, String opcao, Arvore filho, int familia, int crime) {
         super(texto, familia, crime);
         this.opcao = opcao;
         this.filho = filho;
     }
-    protected void mostrarTexto(){
-        System.out.println("\n" + texto+"\n");
+
+    protected void mostrarTexto() {
+        Utilidades.imprimirComPausa(this.texto, 300, 1500);
     }
 
-    private void Escolha(){
-        Valida.Uni(opcao);
+    private void escolherOpcao() {
+        Utilidades.escolhaUnaria(opcao);
     }
 
     @Override
-    public void Executar(Jogador jogador) {
+    public void executar(Jogador jogador) {
         jogador.addFamilia(familia);
         jogador.addCrime(crime);
 
         mostrarTexto();
-        Escolha();
+        escolherOpcao();
 
-        filho.Executar(jogador);
-
+        filho.executar(jogador);
     }
 }

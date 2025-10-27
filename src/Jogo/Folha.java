@@ -1,26 +1,31 @@
 package Jogo;
 
-
 public class Folha extends Arvore {
-    static final Busca finalFamilia = new ConstrutorJogo("familia.txt").criarBusca();
-    static final Busca finalCrime = new ConstrutorJogo("crime.txt").criarBusca();
+
+    static final ArvoreDeFinais finaisFamilia = new ConstrutorJogo("familia.txt").criarArvoreDeFinais();
+    static final ArvoreDeFinais finaisCrime = new ConstrutorJogo("crime.txt").criarArvoreDeFinais();
+
     private boolean fim;
-    public Folha(String texto, int familia, int crime, boolean fim){
+
+    public Folha(String texto, int familia, int crime, boolean fim) {
         super(texto, familia, crime);
         this.fim = fim;
     }
-    protected void mostrarTexto(){
-        System.out.println("\n" + texto);
+
+    protected void mostrarTexto() {
+        Utilidades.imprimirComPausa(this.texto, 300, 1500);
     }
 
     @Override
-    public void Executar(Jogador jogador) {
+    public void executar(Jogador jogador) {
         jogador.addFamilia(familia);
         jogador.addCrime(crime);
+
         mostrarTexto();
-        if (this.fim){
-            finalFamilia.Finais(jogador.familia);
-            finalCrime.Finais(jogador.crime);
+
+        if (this.fim) {
+            finaisFamilia.mostrarFinal(jogador.familia);
+            finaisCrime.mostrarFinal(jogador.crime);
         }
     }
 }
