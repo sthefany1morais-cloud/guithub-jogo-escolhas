@@ -1,0 +1,425 @@
+ID: 1
+TIPO: BIN
+Texto:
+Você dorme.
+Ou pelo menos acredita que dorme.
+
+É difícil ter certeza.
+Quando as pálpebras finalmente se abrem de novo, parece que dias inteiros passaram num único piscar.
+Como se o tempo tivesse sido espremido, comprimido, jogado pra frente sem pedir licença.
+Primeiro, você estava apagando… e agora está aqui, sentado na cama do hospital, quase como outra pessoa.
+
+A médica sorri, anotando coisas em uma prancheta:
+
+— "Sua recuperação tem sido impressionante. A reabilitação correu melhor que o esperado.
+- "Hoje você está liberado para ir para casa."
+
+Sua voz ecoa dentro de você como se fosse algo distante demais para ser real — mas o corpo concorda.
+Você já anda com firmeza.
+Já fala sem tropeçar em sílabas.
+Se sente mais inteiro do que acreditava ser possível.
+
+Seu peito aquece quando vê sua esposa entrando no quarto.
+Ela carrega um sorriso cheio de cansaço e alívio
+Aquele tipo de sorriso que só aparece depois que alguém vence algo grande demais pra colocar em palavras.
+
+— “Vamos pra casa. As crianças estão te esperando.”
+
+Só de ouvir isso, seu coração aperta. Faz tanto tempo… ou pelo menos parece ter feito.
+
+No estacionamento, o céu parece grande demais. Bonito demais.
+A esposa caminha à frente, animada, abrindo o carro… um carro comum, como qualquer outro.
+Mas quando você chega perto, o ar muda.
+Um peso encosta no seu peito.
+A respiração prende.
+O corpo reage antes mesmo de você entender o motivo.
+
+Seu coração acelera num ritmo irregular, urgente, como um aviso silencioso tentando sair pela garganta.
+
+A porta do carro está aberta, esperando por você.
+
+Você não sabe por quê.
+Mas algo dentro de você não quer entrar.
+OPCAO1: Entrar no carro.
+OPCAO2: Não entrar no carro.
+FILHO1: 2
+FILHO2: 9
+FAMILIA: 0
+CRIME: 0
+
+ID: 2
+TIPO: BIN
+Texto:
+Você ignora a sensação estranha que sentiu ao se aproximar do carro.
+Decide que é hora de voltar para casa.
+Com cuidado, abre a porta do banco do passageiro e se acomoda, sentindo o conforto familiar do assento.
+
+Enquanto a mulher dirige, você se sente seguro com ela ao volante.
+Ainda assim, algo parece errado.
+Seus olhos se voltam automaticamente para o porta-luvas.
+Não há motivo aparente, mas aquele pequeno detalhe desperta algo dentro de você.
+Não é medo, não é raiva, não é ansiedade.
+Apenas uma sensação de que é importante, de uma forma que você não consegue explicar.
+
+Apesar disso, você consegue superar o incômodo.
+Sente-se bem por ter entrado no carro, por estar ali com a mulher ao seu lado, e a viagem segue tranquila.
+
+Em pouco tempo, vocês chegam em casa.
+
+Ao atravessar a porta, você percebe dois jovens esperando.
+O garoto tem por volta de quinze anos.
+Alto, calmo, com um olhar atento e cuidadoso, como se estivesse preocupado com alguém além de si mesmo.
+Ao lado dele, uma garotinha de cabelos cacheados e longos, de aproximadamente cinco anos.
+Ela é doce, fofa, parece irradiar uma luz própria, uma alegria natural que ilumina o ambiente.
+
+Eles estão ali, observando você.
+Esperando uma reação.
+
+Você sente uma mistura de admiração e carinho por ambos,
+reconhecendo a presença deles como algo precioso, mesmo sem precisar de palavras.
+OPCAO1: Abraçar o garoto.
+OPCAO2: Segurar a garotinha.
+FILHO1: 3
+FILHO2: 6
+FAMILIA: 0
+CRIME: 0
+
+ID: 3
+TIPO: BIN
+Texto:
+Você se aproxima do garoto e o envolve em um abraço.
+Ele corresponde de maneira delicada, evitando apertar demais,
+como se tivesse receio de machucar você ou de causar algum desconforto.
+Mesmo assim, é evidente o carinho que ele sente, o cuidado que demonstra de maneira silenciosa e contida.
+Você percebe ali uma afeição genuína e intensa, algo que aquece seu coração de forma inesperada.
+
+De repente, tudo ao seu redor parece se dissolver.
+O branco toma conta da sua visão, como se o tempo e o espaço tivessem desaparecido.
+Uma nova cena começa a surgir diante de você, vívida e clara, mas em terceira pessoa.
+
+Você vê um homem com cerca de trinta anos conversando com um jovem de aproximadamente quatorze anos.
+O homem pergunta com atenção:
+
+— Como você está se sentindo?
+- Os brigaram com você de novo? Você quer desabafar comigo?
+
+O garoto balança a cabeça negativamente:
+
+— Não… Eu sei que, por eu ser mais velho, eles tendem a ser mais rígidos comigo.
+- Mas também sei que é porque me amam. É só uma forma de me ajudar a crescer e ser responsável.
+— E a Clara?
+Continua o o homem
+— Ela é pequena, mas eu também tenho que ajudá-la, de algum jeito, eua amo muito.
+
+O homem sorri e diz:
+
+— Estou muito orgulhoso de você. Você é maduro e responsável.
+OPCAO1: Dizer que o ama.
+OPCAO2: Abraçá-lo.
+FILHO1: 4
+FILHO2: 5
+FAMILIA: 0
+CRIME: 0
+
+ID: 4
+TIPO: FOL
+Texto:
+O homem olha para o garoto com carinho e diz:
+
+— Eu te amo, meu filho…
+
+O garoto inclina levemente a cabeça e pergunta, surpreso:
+
+— Tio, eu me distrai por um momento, o que você disse?
+
+O homem sorri e o abraça, dizendo:
+
+— Eu disse que te amo muito.
+
+O momento se encerra ali, com o calor do abraço e a segurança transmitida entre os dois.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 5
+TIPO: FOL
+Texto:
+O homem envolve o garoto em um abraço firme, mas terno.
+Enquanto permanecem assim, ele diz:
+
+— Eu te amo muito.
+
+O abraço permanece, silencioso e cheio de significado, encerrando o momento de conexão entre eles.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 6
+TIPO: BIN
+Texto:
+Você se abaixa e segura a garotinha.
+Ela se aconchega de forma natural, relaxada, e deixa escapar uma risadinha tímida.
+É impossível não perceber o quanto ela é doce, como se uma luz própria emanasse dela.
+Mesmo tão pequena, há algo no jeito dela que transmite alegria, confiança e ternura.
+
+Enquanto a segura, uma visão surge diante de você, tomando toda a sua atenção.
+Tudo ao redor parece se dissolver em branco, e você começa a observar uma nova cena, em terceira pessoa.
+
+Você vê um homem com cerca de trinta anos conversando com uma garotinha de aproximadamente quatro anos.
+O homem pergunta com suavidade:
+
+— Como você está se sentindo?
+- Sabe, às vezes os pais confiam mais no seu irmão por ele ser mais velho.
+- Mas você também tem qualidades e é muito importante.
+
+A garotinha olha para ele com olhos atentos e responde com firmeza:
+
+— Não se preocupe… Eu sei que é porque ele é mais velho e eles confiam mais nele.
+- Mas eu também tenho meu jeito, e sei fazer as coisas do meu jeito.
+- Eu amo muito meu irmão e ele sabe disso.
+
+O homem sorri, acariciando levemente a cabeça dela:
+
+— Estou orgulhoso de você. Você é cheia de luz e tem um coração muito bom.
+OPCAO1: Dizer a a ama
+OPCAO2: Segurar ela
+FILHO1: 7
+FILHO2: 8
+FAMILIA: 0
+CRIME: 0
+
+ID: 7
+TIPO: FOL
+Texto:
+O homem olha para a garotinha com ternura e diz:
+
+— Eu te amo... filha.
+
+A garota inclina levemente a cabeça e pergunta, surpreso:
+
+— Tio, eu me distrai por um momento, o que você disse?
+
+O homem sorri e a segura, dizendo:
+
+— Eu disse que te amo muito.
+
+Ela sorri e responde com uma risadinha:
+
+— Eu também te amo.
+
+O momento se encerra com o calor desse afeto compartilhado, transmitindo segurança e carinho mútuos.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 8
+TIPO: FOL
+Texto:
+O homem envolve a segura garotinha sendo cuidadoso e protetor.
+Enquanto permanecem assim, ele diz suavemente:
+
+— Eu te amo muito.
+
+O abraço permanece, silencioso e cheio de significado, reforçando o vínculo entre os dois.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 9
+TIPO: BIN
+Texto:
+Você sente o ar falhando nos pulmões e recua um passo.
+Seu corpo inteiro parece enrijecer...
+Como se cada nervo estivesse tentando alertar sobre algo que você não consegue compreender.
+Sua esposa percebe a mudança e tenta se aproximar, mas antes que ela diga qualquer coisa,
+a médica intervém, a expressão dela é tranquila, porém firme:
+
+— Não podemos pressioná-lo.
+- A recuperação dele já foi extraordinariamente rápida. Às vezes o corpo reage antes da mente. Vamos com calma.
+
+Ninguém discute.
+E, sem insistência, vocês seguem o caminho de volta a pé.
+
+A caminhada é lenta, muito mais lenta do que teria sido de carro.
+Mesmo sem saber exatamente para onde está indo, você confia na mulher ao seu lado.
+Cada passo traz uma sensação estranha, uma mistura de familiaridade e distância,
+como se você estivesse caminhando por um lugar que já conheceu, mas que sua memória não acompanha.
+
+Quando finalmente chegam à casa, a porta se abre e você se vê diante de um lugar que parece seu…
+Mas que ainda não lhe pertence totalmente.
+
+As paredes, os móveis, um cheiro específico no ar — tudo lhe traz ecos de algo que você deveria lembrar.
+E, ainda assim, permanece um vazio.
+OPCAO1: Chamar as crianças
+OPCAO2: Explorar a casa
+FILHO1: 10
+FILHO2: 13
+FAMILIA: 0
+CRIME: 0
+
+ID: 10
+TIPO: BIN
+Texto:
+Você chama por elas.
+Sua voz ainda soa estranha, áspera, como se pertencesse a alguém que passou muito tempo silencioso.
+Mas funciona.
+
+Depois de alguns segundos, dois jovens surgem da porta do corredor.
+
+Um garoto alto, cerca de 15 anos, passos calmos, olhar sereno e atento.
+E ao lado dele, uma garotinha de aproximadamente 5 anos, com cabelos cacheados e longos,
+irradiando uma luz doce, quase contagiante.
+
+Eles param diante de você, atentos, esperançosos… esperando algo.
+Mas antes que você diga qualquer coisa, sua visão começa a ficar esbranquiçada.
+O som ao seu redor se afasta, como se o mundo estivesse sendo abafado.
+
+Você sente que algo vai surgir, algo quer aparecer diante de você.
+OPCAO1: Ver o que está surgindo
+OPCAO2: Abraçar a mulher e as crianças
+FILHO1: 11
+FILHO2: 12
+FAMILIA: 0
+CRIME: 0
+
+ID: 11
+TIPO: FOL
+Texto:
+O branco toma tudo.
+
+Quando as formas voltam, você está observando outra cena completamente diferente.
+Nada de hospital, nada de casa — apenas um salão festivo.
+Muitas pessoas, risadas, música baixa, e no centro da mesa um bolo de aniversário.
+
+Ao lado dele, um homem e uma mulher, ambos por volta dos 30 anos, conversam com convidados, sorrindo.
+
+No bolo, dois nomes escritos com cobertura.
+Você consegue lê-los, sendo eles, Daniel e Clara.
+
+Ao fundo, você reconhece um outro homem
+idêntico ao que está perto do bolo
+conversando com um garoto de cerca de 14 anos.
+
+O tempo parece avançar dentro da própria visão.
+Agora o salão está do mesmo jeito, o bolo ainda está ali,
+mas o homem idêntico aparece conversando não mais com o garoto, e sim com uma garotinha de aproximadamente 4 anos.
+
+A visão continua, como se fosse um filme passando diante de você…
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 12
+TIPO: FOL
+Texto:
+Você abre os braços, ainda que com certa hesitação.
+Eles não hesitam.
+
+Os dois jovens correm até você, e a mulher o envolve com cuidado.
+Há calor, cheiro, peso… tudo tão real e familiar.
+Não há desespero, apenas alívio.
+
+Eles sorriem, você sente a alegria deles como uma onda quente que empurra a angústia para longe.
+Mesmo sem entender tudo, seu corpo reconhece aquele abraço antes da mente.
+
+A sensação é boa.
+Quase boa demais.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 13
+TIPO: BIN
+Texto:
+Você passa pela sala, cozinha, corredor… Tudo parece familiar, mas distante.
+Há quadros nas paredes, fotos, pequenos objetos que parecem ter importância.
+Ainda assim, nada desperta lembranças claras.
+
+Depois de alguns minutos andando pela casa, dois cômodos chamam sua atenção:
+OPCAO1: Ir para o quarto
+OPCAO2: Ir para o escritório
+FILHO1: 14
+FILHO2: 15
+FAMILIA: 0
+CRIME: 0
+
+ID: 14
+TIPO: FOL
+Texto:
+Você empurra a porta devagar.
+O cheiro do ambiente é familiar, confortável, mas o cômodo parece girar por um instante.
+
+A ansiedade volta.
+Mais forte.
+Mais pesada.
+
+Você dá alguns passos e o corpo falha.
+As pernas tremem.
+Sua visão escurece nas bordas.
+
+Você cai sobre a cama.
+O colchão afunda sob seu peso, e seus olhos simplesmente se fecham.
+
+Tudo fica branco outra vez.
+A respiração fica lenta.
+Seu corpo cede, exausto.
+
+Talvez tenha sido demais para um único dia.
+A mente tentou alcançar algo que ainda não estava pronta para lembrar.
+
+E então…
+Silêncio.
+
+Você volta a dormir.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: true
+
+ID: 15
+TIPO: FOL
+Texto:
+O escritório está silencioso, iluminado apenas pela luz que entra pela janela.
+
+Sobre a mesa há papéis, projetos, desenhos de casas, plantas e anotações.
+Você reconhece seu próprio nome em alguns deles.
+O traço da sua escrita.
+Rascunhos de ideias que parecem familiares, mesmo que sua memória ainda esteja nebulosa.
+
+Entre os papéis, há folhas soltas.
+Parece um diário, ou algo parecido.
+
+Uma página, em especial, chama sua atenção.
+A letra é firme, mas não dá para saber de quem é.
+
+Você começa a ler:
+
+"Às vezes sinto que ele tem tudo que eu nunca consegui.
+As pessoas olham para ele com orgulho, como se esperassem algo grandioso.
+Eu queria ser assim.
+Forte.
+Inteligente.
+O tipo de pessoa que nunca falha."
+
+Você vira a página.
+
+"Talvez eu seja só… menor.
+Às vezes parece que eu nasci como sobra.
+Como o plano B de alguém.
+Mas mesmo assim eu tento.
+Tento ser melhor.
+Tento merecer o que ele tem.
+Talvez um dia consiga."
+
+A letra continua firme, mas carregada.
+Parece um desabafo profundo...
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false

@@ -1,0 +1,683 @@
+ID: 1
+TIPO: BIN
+Texto:
+O sono não teve forma, nem cor definida.
+Às vezes parecia pesado, como se estivesse afundando.
+Às vezes, leve, como se o mundo inteiro tivesse sumido por um momento.
+
+E, então… algo muda.
+
+O corpo reage primeiro.
+Depois, a mente desperta devagar.
+A visão recupera o foco como quem volta de muito longe.
+
+A claridade do quarto agora é suave.
+Você não está mais sozinho.
+
+Há uma médica perto da cama, anotando algo em uma prancheta.
+Uma enfermeira organiza cabos e aparelhos.
+E, ao lado, uma mulher observa você com os olhos quentes e atentos,
+como se tivesse esperado esse momento por tempo demais.
+Há um carinho silencioso nela — um vínculo que você sente antes mesmo de entender.
+
+A médica percebe que você abriu os olhos e se aproxima com calma.
+
+— Cael? — a voz dela é baixa, suave, quase cuidadosa demais — Você está me ouvindo?
+Não precisa falar ainda. Só me escute, tudo bem?
+
+Ela faz algumas perguntas simples, mais para avaliar sua resposta do que para obter palavras.
+Você ainda não consegue responder, mas ela sorri, aliviada.
+
+— Tudo certo. Seu cérebro está reagindo bem.
+Ela olha de relance para a mulher ao seu lado.
+— Como eu disse, ele acordaria hoje.
+
+A enfermeira sorri também.
+
+A médica respira fundo antes de continuar.
+
+— Cael… você sofreu um acidente de carro. Foi há quase um mês.
+- Você entrou em coma logo depois.
+Ela faz uma pausa, como quem escolhe as próximas palavras com cuidado.
+— Você não estava sozinho. Seu irmão gêmeo… Caine… estava com você.
+
+O quarto fica mais quieto.
+
+— Ainda estão procurando por ele. Até agora, não o encontramos. Mas você está aqui. Está seguro.
+
+A médica dá um passo para o lado, abrindo espaço para a mulher.
+
+— E esta aqui… é a sua esposa. Ela esteve com você todos os dias.
+
+A mulher toca sua mão com cuidado, como se temesse machucar você.
+Há um tremor disfarçado nos dedos dela — alívio, saudade, medo — tudo ao mesmo tempo.
+
+Eles esperam uma reação.
+Uma palavra.
+Um gesto.
+Qualquer coisa.
+OPCAO1: Tentar demonstrar angústia.
+OPCAO2: Permanecer em silêncio.
+FILHO1: 2
+FILHO2: 14
+FAMILIA: 0
+CRIME: 0
+
+ID: 2
+TIPO: BIN
+Texto:
+A respiração dele fica curta, irregular.
+Mesmo sem conseguir formar palavras, o corpo diz o que a boca não consegue.
+A médica percebe antes que ele tente insistir.
+
+— Ei, calma… está tudo bem. Não precisa forçar nada agora. Você está seguro — diz ela, aproximando-se um pouco mais.
+ — Você já está acordado, e isso é o mais importante.
+
+Ela observa o modo como ele tenta levantar um pouco a cabeça,
+ como procura entender, como o olhar dele denuncia medo e dúvida.
+
+— Eu sei que você quer respostas — completa a médica — e vamos com calma, tudo bem?
+OPCAO1: Demonstrar ainda mais preocupação.
+OPCAO2: Olhar para a mulher ao seu lado.
+FILHO1: 3
+FILHO2: 7
+FAMILIA: 0
+CRIME: 0
+
+ID: 3
+TIPO: UNA
+Texto:
+Seu olhar tenta fazer perguntas que a boca não consegue formular.
+A médica entende — e suspira antes de continuar.
+
+— Certo. Eu explico melhor.
+
+A voz dela é cuidadosa, sem pressa, como quem tem medo de machucar alguém com palavras.
+
+— Na noite do acidente, você e seu irmão decidiram visitar seus pais. Os dois estavam vestidos igual…
+- uma brincadeira para ver se eles conseguiriam adivinhar quem era quem. Só que…
+
+Ela se interrompe por um instante, como se estivesse escolhendo a forma menos dolorosa de continuar.
+
+— O carro perdeu o controle. Quando a equipe chegou ao local, só encontraram você.
+- Seus documentos estavam com você, então identificaram rápido. Mas o Caine… não estava lá.
+
+A mulher ao lado aperta levemente a mão dele, como se tentasse transmitir força sem dizer nada.
+
+— Eles ainda estão procurando — continua a médica. — Mas já faz um tempo.
+- É difícil dizer quando… ou se vão encontrar algo. Tudo que podemos fazer agora é esperar. E cuidar de você.
+
+Seu olhar perde o foco.
+Um leve zumbido invade sua mente.
+
+Você começa a ver alguma coisa.
+OPCAO1: Ver.
+FILHO1: 4
+FAMILIA: 0
+CRIME: 0
+
+ID: 4
+TIPO: BIN
+Texto:
+A luz branca some.
+O quarto desaparece.
+
+De repente, duas figuras surgem diante de você, como se fossem recortadas da sua mente sem aviso.
+
+Dois homens.
+Cerca de 30 anos.
+A aparência é tão semelhante que parece que foram feitos em cópia
+altura, rosto, postura… até mesmo a roupa é idêntica.
+
+Eles conversam ao lado de um carro estacionado.
+
+Um deles segura um frasco pequeno, transparente.
+O rótulo chama sua atenção por um instante:
+
+“Nausedol.”
+
+O homem com o frasco dá um meio sorriso:
+
+— Eu já tomei. Você devia tomar também.
+Sabe como ficamos em viagens longas de carro… enjoo é a pior coisa.
+
+O outro ri, balançando a cabeça:
+
+— Você sempre cuidando de mim.
+- Tá bom, eu tomo. Pelo menos a gente vai chegar inteiro.
+
+A cena é simples… quase banal.
+Mas você sente, no fundo, que aquilo tem um peso que não consegue explicar.
+Não sabe por quê.
+Só sabe que é importante.
+
+O som some primeiro.
+Depois a imagem se desfaz, como areia escoando entre os dedos.
+
+Você volta ao hospital.
+
+A médica.
+A enfermeira.
+A mulher ao lado da cama.
+
+Todas esperando algum sinal.
+OPCAO1: Olhar para a mulher ao lado.
+OPCAO2: Ficar em silêncio
+FILHO1: 5
+FILHO2: 6
+FAMILIA: 0
+CRIME: 0
+
+ID: 5
+TIPO: FOL
+Texto:
+Você vira o rosto devagar.
+Os olhos dela se abrem um pouco mais, brilhando.
+
+A expressão muda — da angústia para o alívio.
+Como se aquele simples olhar fosse a resposta que ela esperou por meses.
+
+Ela segura sua mão com cuidado, como se pudesse machucá-lo com força demais.
+
+A médica sorri, satisfeita.
+
+— Isso é ótimo — ela diz. — Continue assim. Seu corpo está voltando.
+
+A mulher permanece ali por alguns minutos, só olhando para você.
+Então a enfermeira sugere que o deixem descansar.
+
+Um último aperto na sua mão.
+Um beijo leve na testa.
+
+A luz do quarto diminui.
+
+O sono vem sem esforço.
+
+Você adormece.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 6
+TIPO: FOL
+Texto:
+Seu corpo continua imóvel.
+Sem palavras.
+Sem movimentos.
+
+Mas diferente de antes, há algo no seu olhar.
+Alguma consciência desperta.
+
+A médica percebe primeiro:
+
+— Ele está entendendo tudo — diz, quase esperançosa.
+
+A enfermeira concorda, anotando algo no prontuário.
+
+A mulher ao lado observa você, com um sorriso pequeno e discreto.
+Não é tristeza.
+É expectativa.
+
+Você não fala.
+Mas está ali.
+
+E isso basta.
+
+A equipe decide deixá-lo descansar.
+
+A mulher ainda segura sua mão antes de se levantar, como quem promete voltar.
+
+O quarto escurece.
+O silêncio chega.
+O sono te leva.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 7
+TIPO: BIN
+Texto:
+Quando você volta o olhar para ela, a mulher sorri com um alívio silencioso.
+Ela segura devagar a sua mão, como se tivesse medo de machucar.
+
+E então, sem aviso, algo acontece.
+
+Seus olhos piscam — e você vê.
+
+Dois jovens aparecem diante de você, como se alguém tivesse aberto uma cortina invisível.
+Eles parecem ter por volta de 17 ou 18 anos.
+Conversam baixo, sentados lado a lado, e a atmosfera é leve, íntima, cheia de carinho.
+
+Um dos jovens abraça a garota com força, como se prometesse que nada no mundo os separaria.
+
+— Vai dar certo… — ele diz. — A gente vai conseguir superar qualquer coisa juntos.
+
+A visão é clara, mas está fora do seu corpo.
+Você apenas assiste, como um observador invisível.
+OPCAO1: Sugerir um nome para um filho.
+OPCAO2: Sugerir um nome para uma filha.
+FILHO1: 8
+FILHO2: 11
+FAMILIA: 0
+CRIME: 0
+
+ID: 8
+TIPO: BIN
+Texto:
+Na visão, o jovem respira fundo antes de sorrir:
+
+— E se a gente tiver um menino?
+O nome Daniel seria perfeito.
+
+A garota ri, emocionada:
+
+— Daniel… eu adoro esse nome.
+Ele vai ser tão inteligente… responsável… acho que a gente vai se orgulhar muito dele.
+
+A imagem se dissolve com suavidade, como se estivesse sendo guardada em algum lugar da memória.
+
+Quando a visão some, você sente outra vez a mão da mulher apertando a sua.
+Ela percebe que algo aconteceu dentro de você.
+Os olhos dela brilham, esperançosos.
+OPCAO1: Tentar falar “Daniel”.
+OPCAO2: Permanecer em silêncio.
+FILHO1: 9
+FILHO2: 10
+FAMILIA: 0
+CRIME: 0
+
+ID: 9
+TIPO: FOL
+Texto:
+O ar prende um pouco na garganta.
+Sua voz falha, mas você consegue forçar um som:
+
+— …Da… niel…
+
+A mulher abre um sorriso emocionado, com lágrimas nos olhos.
+
+— Daniel está bem — ela diz, acariciando sua mão. — Ele ficou em casa, ajudando em tudo.
+Mesmo tão novo, foi incrível… responsável, maduro.
+Ele foi a força da família enquanto você estava aqui.
+
+Ela beija sua mão com carinho.
+
+Depois de alguns minutos, para que você descanse, a equipe pede para que ela te deixe dormir de novo.
+Ela se despede com um beijo leve na testa e promete voltar pela manhã.
+
+O quarto fica silencioso.
+A noite cai.
+Você adormece outra vez.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 10
+TIPO: FOL
+Texto:
+A mulher não força.
+Ela apenas segura sua mão com as duas mãos, encostando a testa nela.
+
+— Tudo bem… Não precisa falar agora.
+Eu sei que você está lembrando.
+Um passo de cada vez.
+
+Ela permanece ali por alguns minutos, só presente, só respirando junto com você.
+Depois, a equipe pede para deixá-lo descansar.
+Ela beija sua testa, diz que volta pela manhã, e o quarto fica em silêncio.
+
+A noite toma o hospital.
+O sono chega leve, inevitável.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 11
+TIPO: BIN
+Texto:
+Na visão, os jovens riem como quem guarda um segredo precioso.
+
+— E se for uma menina? — o rapaz pergunta, sorrindo. — Clara.
+Acho lindo.
+
+A garota aperta a mão dele, emocionada:
+
+— Clara… é perfeito.
+Tão doce, tão iluminada… imagino ela sendo a luz da casa.
+
+A imagem se desfaz com lentidão, como se alguém fechasse uma cortina transparente.
+
+Quando você volta ao presente, a mulher ainda está segurando sua mão, sentindo que algo mudou.
+Ela espera.
+OPCAO1: Tentar falar “Clara”.
+OPCAO2: Permanecer em silêncio.
+FILHO1: 12
+FILHO2: 13
+FAMILIA: 0
+CRIME: 0
+
+ID: 12
+TIPO: FOL
+Texto:
+A voz sai baixa, quase um sussurro:
+
+— …Cla… ra…
+
+A mulher prende o ar, emocionada, e sorri com os olhos brilhando.
+
+— A Clara vai ficar tão feliz quando te ver…
+Ela tem cinco aninhos, mas entende mais do que parece.
+Foi um anjo nesse tempo… tão doce, tão cuidadosa…
+
+Ela passa a mão no seu rosto, tentando conter o choro.
+
+Depois de um tempo, a equipe pede para deixá-lo descansar.
+Ela se despede com um beijo demorado na sua testa e promete voltar assim que amanhecer.
+
+O silêncio chega.
+A noite toma o quarto.
+
+Você dorme.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 13
+TIPO: FOL
+Texto:
+Ela percebe, mas não se frustra.
+Apenas sorri e encosta sua cabeça no seu ombro.
+
+— Não tem problema…
+Eu sei que você está voltando pra gente.
+devagar, mas está.
+
+Fica ali com você por alguns minutos, só segurando sua mão.
+Depois, sai para que você descanse.
+
+A escuridade envolve o quarto.
+Você apaga em sono profundo.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 14
+TIPO: BIN
+Texto:
+Você não responde.
+Não tenta mover os lábios.
+Nem olhar para ninguém.
+
+A mulher ao lado aperta levemente a própria mão, nervosa.
+A médica observa atentamente, tentando entender se você está acompanhando ou não.
+
+A silenciosa dúvida paira:
+
+Será que você entende o que está acontecendo?
+
+O quarto espera por algum sinal.
+OPCAO1: Olhar para a mulher ao lado.
+OPCAO2: Continuar em silêncio.
+FILHO1: 15
+FILHO2: 19
+FAMILIA: 0
+CRIME: 0
+
+ID: 15
+TIPO: UNA
+Texto:
+Você vira o rosto devagar.
+Ela sente.
+Os olhos dela se abrem, brilhando instantaneamente
+Como se aquele simples movimento fosse um milagre acontecendo na frente dela.
+
+Antes que tente falar, algo diferente acontece.
+
+Sua visão embaça.
+Os sons do hospital desaparecem.
+O mundo muda.
+OPCAO1: Ver.
+FILHO1: 16
+FAMILIA: 0
+CRIME: 0
+
+ID: 16
+TIPO: BIN
+Texto:
+Cores surgem primeiro.
+Luzes.
+Som de risadas.
+
+Você visualiza dois adolescentes — cerca de 15 anos — em meio a um grande encontro de família e amigos.
+Parentes, crianças, gente conversando, comendo, rindo.
+Um clima leve, festivo.
+
+O garoto respira fundo, chamando a atenção de todos:
+
+— Gente… eu queria aproveitar que todos estão aqui e...
+ele olha para a garota ao lado, sorrindo
+— dizer que eu e a Luciana estamos namorando agora.
+
+A garota ri meio sem graça e empurra o ombro dele com carinho.
+
+— Ah, Cael…
+
+As pessoas ao redor comemoram, fazem brincadeiras, desejam felicidades.
+Eles se abraçam, tímidos e felizes, enquanto o grupo aplaude.
+
+A imagem parece encher o peito de um calor bom, algo familiar — mesmo que você não entenda por quê.
+
+Então tudo vai ficando distante.
+As vozes diminuem.
+A imagem some.
+
+Você volta ao hospital.
+
+A mulher ainda está ao lado da cama.
+Esperando sua reação.
+OPCAO1: Olhar para a mulher ao lado.
+OPCAO2: Continuar em silêncio.
+FILHO1: 17
+FILHO2: 18
+FAMILIA: 0
+CRIME: 0
+
+ID: 17
+TIPO: FOL
+Texto:
+Sua mão se move devagar, alcançando a dela.
+
+O rosto dela muda imediatamente — os lábios tremem num sorriso, os olhos se enchem, mas não cai uma lágrima.
+Ela não quer assustar você.
+
+Ela só segura sua mão com cuidado, como se fosse o gesto mais precioso do mundo.
+
+A médica sorri, satisfeita:
+
+— Ótimo… isso é muito, muito bom.
+
+A enfermeira anota algo no prontuário.
+Há esperança no ar.
+Você sente isso.
+
+Pouco depois, elas decidem deixar você descansar.
+A mulher permanece ali por mais alguns minutos,
+olhando para você com um carinho silencioso, antes de se levantar e sair devagar.
+
+A noite chega.
+O quarto silencia.
+O sono vai tomando você.
+
+Você adormece.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 18
+TIPO: FOL
+Texto:
+Você não aperta a mão dela.
+Mas também não vira o rosto.
+Só permanece ali, imóvel, olhando.
+
+E mesmo assim…
+A expressão dela muda.
+
+A médica percebe:
+
+— Ele está acompanhando. Está consciente.
+
+A mulher ao lado respira aliviada.
+Por mais pequeno que tenha sido, aquele olhar e aquele movimento significaram muito.
+
+Elas decidem deixá-lo descansar.
+O quarto fica mais calmo.
+A respiração fica leve.
+
+O sono chega.
+
+Você adormece.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 19
+TIPO: UNA
+Texto:
+Você permanece imóvel.
+Não move os olhos.
+Não tenta responder.
+
+A mulher ao lado aperta as próprias mãos, tensa.
+A médica troca um olhar rápido com a enfermeira — ninguém diz nada, mas dá para sentir a preocupação no ar.
+
+Mesmo assim, elas continuam perto de você.
+Esperando.
+Com paciência.
+
+E então… algo muda.
+
+O som do hospital se afasta.
+A luz parece ficar mais fraca, depois mais forte.
+Um cenário começa a se formar diante de você.
+OPCAO1: Ver.
+FILHO1: 20
+FAMILIA: 0
+CRIME: 0
+
+ID: 20
+TIPO: BIN
+Texto:
+Você visualiza dois adolescentes, por volta de 15 anos.
+O ambiente é festivo — muitas pessoas, vozes, risadas, comida, música.
+Mas esses dois estão afastados, num jardim iluminado, protegidos da bagunça.
+
+O garoto respira fundo, nervoso.
+Ele olha para a garota, tentando encontrar coragem.
+
+— Luciana… eu sempre amei você. Desde sempre. Só… só agora eu consegui falar.
+
+Ela não responde com palavras no começo.
+Só avança e o abraça, forte, como se tivesse esperado por isso há muito tempo.
+
+Depois ela sussurra:
+
+— Eu também amo você.
+
+Eles ficam assim por um momento.
+Depois ela beija ele devagar, com carinho, enquanto ao fundo a festa continua viva
+Mas eles só se importam um com o outro.
+
+A cena é bonita.
+Quente.
+Cheia de sentimento.
+
+Mas quando a imagem começa a desaparecer, algo dentro de você pesa.
+Como se faltasse uma peça.
+Como se algo tivesse sido perdido ali — um detalhe que você deveria ter notado, mas não notou.
+
+A visão se dissolve.
+
+Você volta para o hospital.
+
+A médica observa você com atenção.
+A enfermeira aguarda.
+A mulher ao lado segura a borda da cama, esperando por qualquer sinal.
+OPCAO1: Olhar para a mulher ao lado.
+OPCAO2: Continuar em silêncio.
+FILHO1: 21
+FILHO2: 22
+FAMILIA: 0
+CRIME: 0
+
+ID: 21
+TIPO: FOL
+Texto:
+Você move o rosto lentamente.
+
+Quando seus olhos encontram os dela, tudo nela muda.
+O peito dela finalmente relaxa, como se estivesse segurando a respiração desde o momento em que você acordou.
+
+A médica sorri:
+
+— Muito bem. Isso é um ótimo sinal.
+
+A enfermeira anota algo.
+Ninguém fala alto.
+Ninguém pressiona você.
+
+Só deixam claro que estão ali.
+Com você.
+
+Pouco depois, elas decidem deixá-lo descansar.
+A mulher fica mais um pouco, em silêncio, apenas olhando para você com um carinho calmo.
+
+A noite chega.
+Você fecha os olhos devagar.
+
+O sono vence.
+
+Você adormece.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 22
+TIPO: FOL
+Texto:
+Você não reage.
+Não olha.
+Não move nada.
+
+A mulher afasta as mãos devagar, tentando parecer forte, mas o brilho de esperança se apaga um pouco.
+
+— É normal… — a enfermeira diz, tentando tranquilizá-la. — Alguns pacientes levam mais tempo.
+
+— Ele pode estar cansado — a médica concorda, forçando um sorriso suave. — Vamos dar espaço para ele descansar.
+
+Elas continuam falando, mas as vozes começam a soar distantes.
+Como se estivessem muito longe.
+Muito longe…
+
+O quarto escurece nas bordas.
+Seu corpo parece pesado.
+Você sente a consciência escorregar, como se estivesse sendo puxado para um lugar profundo.
+
+As vozes desaparecem.
+
+A luz desaparece.
+
+Seu mundo desaparece.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: true

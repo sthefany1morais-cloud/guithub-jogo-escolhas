@@ -11,6 +11,7 @@ public class NoTemporario {
     int familia;
     int crime;
     boolean fim;
+    boolean encerrar;
     public NoTemporario(int id){
         this.id = id;
     }

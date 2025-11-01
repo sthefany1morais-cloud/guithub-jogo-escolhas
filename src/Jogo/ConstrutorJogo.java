@@ -9,10 +9,30 @@ public class ConstrutorJogo {
         this.arquivo =  arquivo;
     }
 
+    public ConstrutorJogo(){};
+
     public Arvore criarArvore(){
         List<NoTemporario> temp = lerArvores();
         List<Arvore> real = criarArvores(temp);
         return conectarFilhos(temp, real);
+    }
+
+    public void executarJogo(int maximo){
+        Jogador jogador = new Jogador();
+        for (int i = 1; i <= maximo; i++){
+
+            String arq = "src/capitulos/capitulo" + i + ".txt";
+            Arvore capitulo = new ConstrutorJogo(arq).criarArvore();
+
+            boolean encerrar = capitulo.executar(jogador);
+
+            if (encerrar){
+                break;
+            }
+            System.out.printf("\n---FIM DO CAPITULO %d---\n", i);
+
+        }
+        System.out.print("\n---Fim de jogo---");
     }
 
     private List<NoTemporario> lerArvores(){
@@ -109,6 +129,10 @@ public class ConstrutorJogo {
                         atual.fim = Boolean.parseBoolean(valor.toLowerCase());
                         break;
 
+                    case "ENCERRAR":
+                        atual.encerrar = Boolean.parseBoolean(valor.toLowerCase());
+                        break;
+
                 }
 
 
@@ -141,7 +165,7 @@ public class ConstrutorJogo {
                     break;
                 case "FOL":
                 default:
-                    muda = new Folha(no.texto, no.familia, no.crime, no.fim);
+                    muda = new Folha(no.texto, no.familia, no.crime, no.fim, no.encerrar);
                     break;
             }
             arvores.add(muda);

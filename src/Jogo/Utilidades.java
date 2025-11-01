@@ -5,17 +5,17 @@ import java.util.Scanner;
 public class Utilidades {
     private static final Scanner leitor = new Scanner(System.in);
 
-    public static void imprimirComPausa(String texto, int menor, int maior){
+    public static void imprimirComPausa(String texto){
         String[] linhas = texto.split("\n");
         System.out.println();
         for (String linha: linhas){
             linha = linha.trim();
+            System.out.println(linha);
             if (linha.isEmpty()){
-                esperar(maior);
+                esperar(500);
                 continue;
             }
-            System.out.println(linha);
-            esperar(menor);
+            esperar(1500);
         }
     }
 

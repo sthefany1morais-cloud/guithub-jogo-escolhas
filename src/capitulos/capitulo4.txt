@@ -1,0 +1,321 @@
+ID: 1
+TIPO: BIN
+Texto:
+Algumas semanas passam.
+Ou pelo menos… parece que sim.
+
+Num piscar de olhos, você já está em uma festa.
+Luzes, músicas leves, doces na mesa e pessoas sorrindo.
+Dizem que é para comemorar o seu progresso.
+A sua reabilitação.
+
+Você observa rostos conhecidos.
+Risos.
+Abraços.
+É estranho, mas, de alguma forma, conforta.
+OPCAO1: Se aproximar da família e conversar.
+OPCAO2: Ficar mais afastado, só observando.
+FILHO1: 2
+FILHO2: 9
+FAMILIA: 0
+CRIME: 0
+
+ID: 2
+TIPO: BIN
+Texto:
+Você respira fundo e dá alguns passos.
+Pessoas te cumprimentam, perguntam como está se sentindo, dizem que estão felizes por você.
+
+Duas figuras chamam sua atenção:
+
+Uma mulher de olhar carinhoso, sorriso calmo, expressão orgulhosa.
+
+Um senhor de postura séria, mas com os olhos emocionados.
+
+Com quem você quer falar primeiro?
+OPCAO1: Conversar com a mulher
+OPCAO2: Conversar com o senhor
+FILHO1: 3
+FILHO2: 6
+FAMILIA: 0
+CRIME: 0
+
+ID: 3
+TIPO: BIN
+Texto:
+Ela sorri quando você se aproxima.
+
+“Ei… eu estava te esperando vir falar comigo.”
+A voz é doce, aliviada.
+Ela segura sua mão com cuidado, como se ainda tivesse medo de te machucar.
+
+“Eu estou tão feliz que você está melhor. Ver você caminhando, falando com todos… é um presente. De verdade.”
+
+Ela ri baixinho, lembrando de algo.
+
+“Sabia que foi numa festa como essa que você me apresentou para a sua família?
+Você estava tão nervoso que quase esqueceu meu nome quando falou que éramos namorados.”
+
+Ela te olha fundo nos olhos.
+É amor puro, sem disfarce.
+OPCAO1: Continuar conversando com ela.
+OPCAO2: Ir falar com a garotinha que tenta pegar um balão
+FILHO1: 4
+FILHO2: 5
+FAMILIA: 0
+CRIME: 0
+
+ID: 4
+TIPO: FOL
+Texto:
+Ela continua rindo, lembrando da história.
+
+“E o mais engraçado foi antes disso… porque, por coincidência, ficamos sozinhos no jardim.
+E você começou a se declarar pra mim como se nós nem estivéssemos namorando ainda.”
+Ela dá um empurrãozinho leve no seu ombro, brincando.
+
+“Você estava tão nervoso… como se tivesse medo que eu dissesse não. Sendo que nós já estávamos juntos há meses.”
+
+Ela sorri, com aquele olhar que derrete qualquer tensão.
+
+Vocês conversam mais um pouco.
+A festa segue leve, acolhedora.
+FAMILIA: 0
+CRIME: 0
+FIM: true
+ENCERRAR: true
+
+ID: 5
+TIPO: FOL
+Texto:
+A garotinha estica os bracinhos para um balão que está alto demais.
+
+Quando te vê, os olhos dela brilham.
+
+“Papai! Pega pra mim?”
+
+Você a pega no colo — leve, pequena, confiante.
+Ela agarra o balão, abraça você e ri.
+
+A mulher observa com um sorriso encantado, orgulhoso.
+Uma cena simples, mas cheia de amor.
+
+A festa continua.
+FAMILIA: 0
+CRIME: 0
+FIM: true
+ENCERRAR: true
+
+ID: 6
+TIPO: BIN
+Texto:
+O homem te recebe com um abraço breve, firme.
+Quando ele fala, a voz é um misto de alívio e cansaço.
+
+“Filho… que bom te ver assim. Eu não perdi as esperanças de encontrar seu irmão.
+Mas, por agora, fico feliz que você esteja de pé.”
+
+Ele respira, como se organizasse os pensamentos.
+
+“Fiquei sabendo que você andou preocupado com carros…
+Olha, espero que você fique bem com isso também.
+Só… uma coisa importante: nunca esqueça de deixar alguma ferramenta no porta-luvas.
+Assim, mesmo que você esqueça a maleta maior, sempre vai ter algo lá para te salvar se der algum problema.
+Só… não confie que tudo vai funcionar sempre.”
+
+A frase soa simples.
+Mas entra fundo.
+Como se fosse importante.
+Muito importante.
+
+Você tenta puxar alguma lembrança… mas nada vem.
+Só a sensação de que aquilo significa algo.
+
+O homem te dá um sorriso leve e te deixa à vontade.
+
+Agora você pode:
+OPCAO1: Conversar com a senhora de semblante carinhoso.
+OPCAO2: Conversar com o jovem garoto que observa a mesa de doces.
+FILHO1: 7
+FILHO2: 8
+FAMILIA: 0
+CRIME: 0
+
+ID: 7
+TIPO: FOL
+Texto:
+Ela ajeita seus cabelos com cuidado, como se já tivesse feito isso milhares de vezes.
+“Seu progresso está lindo de ver. Estamos todos orgulhosos.”
+
+Depois, ela comenta com naturalidade:
+
+“Ah, e lembra de avisar a Luciana para mudar o remédio da pequena.
+Ela está dando aquele para enjoo, o Nausedol.
+Funciona, mas deixa a criança mole de sono.
+Você mesmo já usou isso quando era menor, lembra?
+Depois trocamos, porque com você e com o Caine foi a mesma coisa.”
+
+Ela ri baixinho, como se achasse graça da coincidência.
+
+“Melhor trocar, senão a coitadinha dorme o caminho inteiro.”
+
+Você concorda.
+A conversa flui leve.
+Mas você sente que deixou algo passar.
+E a festa segue.
+FAMILIA: 0
+CRIME: 0
+FIM: true
+ENCERRAR: true
+
+ID: 8
+TIPO: FOL
+Texto:
+A garotinha estica os bracinhos para um balão que está alto demais.
+
+Quando te vê, os olhos dela brilham.
+
+“Papai! Pega pra mim?”
+
+Você a pega no colo — leve, pequena, confiante.
+Ela agarra o balão, abraça você e ri.
+
+A mulher observa com um sorriso encantado, orgulhoso.
+Uma cena simples, mas cheia de amor.
+
+A festa continua.
+FAMILIA: 0
+CRIME: 0
+FIM: true
+ENCERRAR: true
+
+ID: 9
+TIPO: BIN
+Texto:
+Você permanece onde está.
+Encostado na parede, mãos nos bolsos, apenas observando.
+Risos, conversas, crianças correndo com balões.
+A festa parece alegre… mas você se sente como um visitante na própria vida.
+OPCAO1: Continuar quieto.
+OPCAO2: Prestar atenção em uma conversa ali perto.
+FILHO1: 10
+FILHO2: 13
+FAMILIA: 0
+CRIME: 0
+
+ID: 10
+TIPO: BIN
+Texto:
+Você respira fundo e permanece parado, apenas acompanhando tudo com os olhos.
+
+A mulher que corta pedaços de bolo parece ter trabalho demais para entregar tudo.
+E, perto da mesa, uma garotinha luta para segurar o garfo e o pedaço de bolo ao mesmo tempo, quase derrubando tudo.
+OPCAO1: Ajudar a garotinha com os talheres.
+OPCAO2: Ajudar a mulher que distribuir o bolo.
+FILHO1: 11
+FILHO2: 12
+FAMILIA: 0
+CRIME: 0
+
+ID: 11
+TIPO: FOL
+Texto:
+Você se aproxima devagar e se abaixa, para ficar na altura dela.
+Segura o prato com firmeza.
+
+“Quer ajuda?”
+
+Ela olha pra você surpresa, depois sorri tão aberto que parece iluminar o rosto inteiro.
+
+Você corta o bolo em pequenos pedaços, entrega o garfo com cuidado,
+e ela, sem conseguir conter a alegria, morde a sobremesa.
+Depois te abraça pela cintura com os bracinhos pequenos, como se aquele gesto tivesse salvado o dia dela.
+FAMILIA: 0
+CRIME: 0
+FIM: true
+ENCERRAR: true
+
+ID: 12
+TIPO: FOL
+Texto:
+Você pega o garfo de servir da mesa e começa a dividir as fatias com ela.
+Ela olha surpresa, quase como se não esperasse nada, e ao mesmo tempo, como se precisasse muito daquela ajuda.
+
+Vocês passam a trabalhar em silêncio, lado a lado.
+Ela coloca os pratos, você entrega; ela corta, você distribui.
+
+Os dois trocam olhares rápidos e discretos sorrisos, e o clima fica mais leve, mais suave, mais íntimo.
+Quando todos pegam seus pedaços, ela respira fundo, exausta… e depois te abraça rápido, com gratidão silenciosa.
+FAMILIA: 0
+CRIME: 0
+FIM: true
+ENCERRAR: true
+
+ID: 13
+TIPO: BIN
+Texto:
+Você foca sua atenção em um homem de postura firme conversando com um rapaz mais jovem, quieto, educado.
+
+O mais velho ri, lembrando de algo distante:
+
+“Sabia, meu garoto… foi numa festa como essa que seu pai apresentou a sua mãe como namorada.
+Ele tinha quase a sua idade. O plano dele era contar pra todos… mas o carro quebrou, bem aqui do lado da casa.”
+
+Ele suspira, como quem revive o momento.
+
+“E seu pai ficou a festa quase inteira me ajudando a consertar aquilo.
+Eu achei que ele estava inquieto por ser um adolescente impaciente.
+Não imaginei que era porque ele queria anunciar a namorada.”
+
+O homem olha para o chão e depois sorri de novo.
+
+“Quando percebi, já era tarde.
+Eles só conseguiram contar no finalzinho da festa.
+Depois pedi desculpas ao seu pai… deveria ter escutado melhor.”
+
+O rapaz sorri.
+
+Eles continuam conversando, e você sente um calor estranho no peito
+OPCAO1: Se aproximar e falar com o homem de postura firme.
+OPCAO2: Se aproximar e falar com o rapaz calmo.
+FILHO1: 14
+FILHO2: 15
+FAMILIA: 0
+CRIME: 0
+
+ID: 14
+TIPO: FOL
+Texto:
+O homem abre um sorriso grande ao te ver se aproximando.
+
+“Eu sabia que você apareceria por aqui…”
+
+Ele segura seu ombro com cuidado, como quem tem medo de apertar demais.
+
+“É tão bom te ver de pé. Tão bom te ver sorrindo de novo.
+Hoje… hoje é um dia especial. Só quero aproveitar ele com você.”
+
+O olhar dele se enche de emoção, sem precisar dizer mais nada.
+FAMILIA: 0
+CRIME: 0
+FIM: true
+ENCERRAR: true
+
+ID: 15
+TIPO: FOL
+Texto:
+O garoto te vê chegando e o sorriso tímido se transforma em um sorriso completo, iluminado.
+
+“Você veio falar comigo…”
+
+Ele tenta parecer confiante, mas os olhos brilham demais para esconder o sentimento.
+
+“Eu… eu tô muito feliz que você tá aqui. De verdade.”
+
+O abraço que ele dá é cuidadoso, quase com medo de te machucar, mas cheio de carinho e saudade acumulada.
+
+E, pela primeira vez em muito tempo, você sente que pertence àquele lugar.
+FAMILIA: 0
+CRIME: 0
+FIM: true
+ENCERRAR: true

@@ -12,9 +12,9 @@ public abstract class Arvore {
     }
 
     protected void mostrarTexto() {
-        Utilidades.imprimirComPausa(this.texto, 300, 1500);
+        Utilidades.imprimirComPausa(this.texto);
     }
 
-    public abstract void executar(Jogador jogador);
+    public abstract boolean executar(Jogador jogador);
 }
 

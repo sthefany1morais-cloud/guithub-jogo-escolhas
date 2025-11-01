@@ -1,0 +1,417 @@
+ID: 1
+TIPO: BIN
+Texto:
+Tudo era preto. Depois, branco demais. Uma sensação de vazio, como se o tempo tivesse sumido.
+Não há lembranças, nem som, só um silêncio esmagador. Então, algo puxa você de volta.
+Seus olhos se abrem devagar. A luz branca arde, e por um instante tudo gira.
+Sua cabeça dói, pesada, como se estivesse longe do seu próprio corpo. Aos poucos, a visão se ajusta.
+Você está deitado em uma cama de hospital.
+Máquinas silenciosas ao lado, cheiro de antisséptico, lençóis claros.
+Nada disso parece familiar, mas ao mesmo tempo não é estranho o suficiente para ser novo. Apenas confuso.
+À sua direita, sobre uma pequena mesa de cabeceira, há um retrato em porta-retrato.
+Acima de você, uma lâmpada fluorescente ilumina o quarto com um brilho frio.
+OPCAO1: Olhar o retrato
+OPCAO2: Olhar a lâmpada
+FILHO1: 2
+FILHO2: 11
+FAMILIA: 0
+CRIME: 0
+
+
+ID: 2
+TIPO: BIN
+Texto:
+O retrato está em um porta-retratos simples.
+Dois jovens idênticos encaram a câmera, sorrindo com naturalidade.
+Parecem ter algo em torno de dezessete ou dezoito anos.
+
+Um dos jovens lhe causa a sensação de indentificação.
+Mas ao lado dele está outro igual.
+Mesmo corte de cabelo, mesma expressão, o mesmo olhar.
+
+Algo aperta no peito, mas você não sabe dizer o quê.
+OPCAO1: Você sente uma estranha familiaridade, como se aquela imagem fosse importante.
+OPCAO2: Você sente um desconforto, como se houvesse algo errado naquele sorriso duplicado.
+FILHO1: 3
+FILHO2: 7
+FAMILIA: 0
+CRIME: 0
+
+ID: 3
+TIPO: UNA
+Texto:
+O retrato traz uma sensação boa.
+Os dois jovens parecem felizes, despreocupados, como se nada pudesse machucar aquele momento.
+
+Um calor suave nasce no peito.
+Você não sabe quem eles são, mas é como se parte de você reconhecesse aquele sorriso.
+
+O cansaço pesa.
+Os olhos ficam pesados e o corpo parece afundar no colchão.
+Sem perceber, você adormece outra vez.
+OPCAO1: Voltar a dormir.
+FILHO1: 4
+FAMILIA: 0
+CRIME: 0
+
+ID: 4
+TIPO: BIN
+Texto:
+O sono chega rápido.
+Logo, um sonho se forma — claro, silencioso, visto de longe.
+
+Um dos rostos do retrato aparece.
+Ele está em pé, diante de um homem e de uma mulher que parecem ter em torno de quarenta anos.
+
+O homem tem postura rígida, braços cruzados, mas os olhos carregam cuidado.
+A mulher parece mais suave, preocupada, mas cheia de carinho.
+
+O jovem respira fundo e diz que precisa contar algo importante.
+Ele revela que a namorada está grávida.
+Diz que tentou se proteger, mas que agora não sabe o que fazer.
+
+Os dois adultos trocam olhares.
+Depois, oferecem apoio.
+Não levantam a voz, não brigam.
+Apenas dizem que vão ajudar.
+OPCAO1: Abraçá-los
+OPCAO2: Agradecer-lhes
+FILHO1: 5
+FILHO2: 6
+FAMILIA: 0
+CRIME: 0
+
+ID: 5
+TIPO: FOL
+Texto:
+O jovem dá um passo à frente e abraça os dois.
+Não é um abraço forte, mas é sincero.
+Os pais o cercam com os braços, e por um momento o medo desaparece.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 6
+TIPO: FOL
+Texto:
+O jovem aperta as mãos dos dois, com olhos marejados.
+Ele agradece por não estar sozinho, por não ser julgado.
+A voz sai fraca, mas cheia de verdade.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 7
+TIPO: UNA
+Texto:
+O retrato causa um incômodo estranho.
+Os dois jovens são idênticos demais.
+Mesmo sorriso, mesmos olhos, como se fossem a mesma pessoa repetida.
+
+Algo aperta o peito, não de saudade, mas de inquietação.
+Você sente que há algo errado ali, mas não sabe o quê.
+A sensação é discreta, mas suficiente para gelar o estômago.
+
+O cansaço chega de repente.
+A visão embaça e o corpo relaxa contra o travesseiro.
+Sem lutar contra o sono, você adormece.
+OPCAO1: Voltar a dormir.
+FILHO1: 8
+FAMILIA: 0
+CRIME: 0
+
+ID: 8
+TIPO: BIN
+Texto:
+O sono chega rápido.
+Logo, um sonho se forma — claro, silencioso, visto de longe.
+
+Um dos rostos do retrato aparece.
+Ele segura um papel com o resultado de aprovação em Engenharia Civil.
+Na outra mão, uma lista de valores de aluguel em uma cidade maior.
+
+A expressão é de entusiasmo, misturada com medo.
+Ele parece pronto para falar com quem quer que esteja do outro lado.
+
+Mas antes que consiga, ele para.
+Do outro lado do corredor, outro jovem, com o mesmo rosto que o seu, conversa com um homem e uma mulher.
+Eles parecem felizes, emocionados com algo que foi contado.
+
+O jovem da carta fica em silêncio.
+A alegria vira preocupação.
+Ele respira fundo, tentando decidir o que fazer.
+OPCAO1: Voltar para o quarto sem dizer nada.
+OPCAO2: Contar sobre a faculdade.
+FILHO1: 9
+FILHO2: 10
+FAMILIA: 0
+CRIME: 0
+
+ID: 9
+TIPO: FOL
+Texto:
+O jovem guarda os papéis dentro da mochila.
+Sozinho, arruma poucas roupas e alguns objetos.
+Naquela mesma noite, deixa a casa em silêncio.
+
+Ele não volta mais.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 10
+TIPO: FOL
+Texto:
+Quando ele entra na sala, o outro jovem já não está mais lá.
+Só o homem e a mulher o aguardam, curiosos.
+
+Ele mostra a carta.
+Diz que foi aprovado.
+Diz que queria se mudar para estudar.
+
+Os dois trocam um olhar pesado.
+Parece que algo os preocupa.
+
+Em voz baixa, dizem que não têm condições financeiras de ajudar.
+Não agora.
+
+O jovem tenta sorrir, mas a frustração pesa nos ombros.
+A carta dobra entre os dedos, e o brilho do momento desaparece.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 11
+TIPO: BIN
+Texto:
+A lâmpada brilha forte demais.
+A luz parece pulsar em silêncio, branca, constante, quase artificial.
+Você sente um pequeno incômodo, como se algo estivesse fora do lugar.
+OPCAO1: Continuar olhando para a lâmpada.
+OPCAO2: Desviar o olhar.
+FILHO1: 12
+FILHO2: 18
+FAMILIA: 0
+CRIME: 0
+
+ID: 12
+TIPO: BIN
+Texto:
+A luz fica ainda mais forte.
+Por um instante, o quarto parece distorcer.
+As bordas das coisas tremem, como se não fossem totalmente reais.
+
+Uma leve tontura surge.
+O corpo está pesado, mas a luz continua chamando sua atenção.
+OPCAO1: Continuar olhando para a lâmpada.
+OPCAO2: Desviar o olhar.
+FILHO1: 13
+FILHO2: 17
+FAMILIA: 0
+CRIME: 0
+
+ID: 13
+TIPO: UNA
+Texto:
+O tempo desaparece.
+Primeiro tudo fica branco.
+Depois, preto.
+Depois, algo no meio das duas coisas.
+
+Não há som, nem cheiro, nem quarto.
+A sensação é de cair sem se mover.
+
+A consciência escapa, como se o mundo estivesse se desfazendo.
+OPCAO1: acordar
+FILHO1: 14
+FAMILIA: 0
+CRIME: 0
+
+
+ID: 14
+TIPO: UNA
+Texto:
+A luz da lâmpada desaparece.
+
+E, dessa vez, quando você abre os olhos, tudo parece… sólido.
+Real de verdade.
+As cores não tremem. O ar tem cheiro.
+O mundo tem peso.
+
+O teto branco de um quarto de hospital está acima de você.
+Há máquinas ao lado da cama, e o som constante de um monitor cardíaco preenche o silêncio com vida.
+
+Uma médica sorri quando percebe seus olhos abrindo.
+
+— Você está acordado… finalmente — ela diz, aliviada.
+
+Ao lado dela, uma enfermeira ajusta cabos e anota algo numa prancheta.
+E, sentada bem ao lado da cama, há uma mulher com os olhos cheios de lágrimas — emocionada,
+respirando fundo, como quem segurou o mundo por tempo demais.
+
+A médica respira fundo, gentil.
+
+— Você sofreu um acidente. Foi sério. Mas conseguimos estabilizar você.
+Você passou… cerca de um mês em coma.
+
+A mulher ao lado solta um soluço aliviado e segura sua mão com cuidado,
+como se você fosse algo frágil e precioso.
+OPCAO1: Olhar para a mulher
+FILHO1: 15
+FAMILIA: 0
+CRIME: 0
+
+ID: 15
+TIPO: UNA
+Texto:
+A médica continua:
+
+— Ela esteve aqui todos os dias. Sua esposa não saiu do seu lado.
+
+A esposa aperta sua mão com mais força, enxugando a lágrima que escapou.
+É um toque quente, real, humano.
+
+Ao olhar para suas mãos, você percebe uma cicatriz fina na palma, em formato de V.
+Não dói. Não incomoda.
+É apenas um detalhe estranho — algo que parece significativo, mas você não sabe o motivo.
+
+E, no fundo, ninguém comenta sobre isso.
+Nem a médica.
+Nem a esposa.
+Nem você.
+
+Apenas existe.
+
+Por um tempo, conversam.
+Palavras simples, emocionadas, quase irreais pelo alívio.
+
+No fim, a médica sorri, satisfeita.
+
+— Vamos deixá-los descansar um pouco. Qualquer coisa, chame a equipe.
+
+A médica e a esposa saem.
+A porta se fecha.
+OPCAO1: ficar em silêncio
+FILHO1: 16
+FAMILIA: 0
+CRIME: 0
+
+ID: 16
+TIPO: FOL
+Texto:
+Silêncio.
+
+Você fica ali, respirando devagar, sentindo cada sentido voltar ao mundo.
+
+E então, algo muda.
+
+Você consegue ver um enfermeiro no canto do quarto.
+
+Ele está ali desde antes.
+Discreto. Parado.
+Ninguém falou com ele.
+Ninguém perguntou por ele.
+Ninguém notou sua presença além de você.
+
+E, agora, ele se aproxima da sua cama.
+
+Luvas.
+Uniforme.
+Máscara.
+
+Ele para ao seu lado.
+E, muito lentamente, retira a máscara.
+
+O rosto dele é o mesmo que o seu.
+
+Idêntico.
+
+Mesmo olhar.
+Mesma pele.
+Ele carrega uma expressão vazia, silenciosa.
+
+Ele se inclina, olhando direto dentro de você.
+
+— Você tentou se livrar de mim — ele sussurra, calmo. — Mas eu sempre volto.
+
+Nenhum som vem do corredor.
+Ninguém entra.
+Ninguém percebe.
+
+A voz dele se torna mais baixa, mais íntima.
+
+— Eu sempre vou estar aqui. Observando.
+Não importa onde você acorde.
+
+O quarto continua absolutamente normal.
+O mundo segue real, firme, intacto.
+
+E, ainda assim, só você pode vê-lo.
+Só você consegue ouvir.
+Só você sente que ele nunca foi embora.
+
+E nunca irá.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: true
+
+ID: 17
+TIPO: FOL
+Texto:
+O brilho continua pulsando quando você finalmente vira o rosto.
+Um enjoo leve sobe até a garganta.
+
+A visão demora a voltar ao normal, e um cansaço pesado domina cada músculo.
+A mente parece afundar devagar, como se estivesse perdendo força.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 18
+TIPO: BIN
+Texto:
+O brilho da lâmpada incomoda, e você olha para outro lugar.
+
+O quarto está quieto demais.
+Há um remédio sobre uma bancada, longe da cama.
+OPCAO1: Observar o quarto.
+OPCAO2: Observar a si mesmo.
+FILHO1: 19
+FILHO2: 20
+FAMILIA: 0
+CRIME: 0
+
+ID: 19
+TIPO: FOL
+Texto:
+O quarto é simples.
+Paredes claras, um monitor silencioso, a cortina fechada.
+O frasco de Nausedol permanece na bancada, imóvel,
+como se ninguém tivesse estado ali há muito tempo.
+No resto, tudo parece parado.
+O cansaço começa a pesar, e seus olhos se fecham novamente.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false
+
+ID: 20
+TIPO: FOL
+Texto:
+Você sente o corpo fraco.
+A boca seca.
+Os músculos pesados, como se tivessem esquecido como se mover.
+
+Há uma dormência estranha nos braços e nas pernas.
+É como se tivesse dormido por tempo demais.
+Ainda assim, o cansaço te vence.
+FAMILIA: 0
+CRIME: 0
+FIM: false
+ENCERRAR: false

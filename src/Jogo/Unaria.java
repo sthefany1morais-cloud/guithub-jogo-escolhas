@@ -12,7 +12,7 @@ public class Unaria extends Arvore {
     }
 
     protected void mostrarTexto() {
-        Utilidades.imprimirComPausa(this.texto, 300, 1500);
+        Utilidades.imprimirComPausa(this.texto);
     }
 
     private void escolherOpcao() {
@@ -20,13 +20,13 @@ public class Unaria extends Arvore {
     }
 
     @Override
-    public void executar(Jogador jogador) {
+    public boolean executar(Jogador jogador) {
         jogador.addFamilia(familia);
         jogador.addCrime(crime);
 
         mostrarTexto();
         escolherOpcao();
 
-        filho.executar(jogador);
+        return filho.executar(jogador);
     }
 }

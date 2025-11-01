@@ -35,7 +35,7 @@ public class ArvoreDeFinais {
         } else if (pontos > this.valor && direita != null && (pontos - this.valor) > (pontos - direita.valor)) {
             this.direita.mostrarFinal(pontos);
         } else {
-            Utilidades.imprimirComPausa(this.texto, 300, 1500);
+            Utilidades.imprimirComPausa(this.texto);
         }
     }
 }
