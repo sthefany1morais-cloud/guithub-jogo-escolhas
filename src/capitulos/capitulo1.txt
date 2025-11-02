@@ -1,14 +1,14 @@
 ID: 1
 TIPO: BIN
 Texto:
-Tudo era preto. Depois, branco demais. Uma sensação de vazio, como se o tempo tivesse sumido.
+A visão não distingue nada, senão um ponto luminoso acima. O vazio invade os demais sentidos, e o tempo parece não existir.
 Não há lembranças, nem som, só um silêncio esmagador. Então, algo puxa você de volta.
 Seus olhos se abrem devagar. A luz branca arde, e por um instante tudo gira.
 Sua cabeça dói, pesada, como se estivesse longe do seu próprio corpo. Aos poucos, a visão se ajusta.
 Você está deitado em uma cama de hospital.
 Máquinas silenciosas ao lado, cheiro de antisséptico, lençóis claros.
 Nada disso parece familiar, mas ao mesmo tempo não é estranho o suficiente para ser novo. Apenas confuso.
-À sua direita, sobre uma pequena mesa de cabeceira, há um retrato em porta-retrato.
+À sua direita, sobre uma pequena mesa de cabeceira, há um porta-retrato.
 Acima de você, uma lâmpada fluorescente ilumina o quarto com um brilho frio.
 OPCAO1: Olhar o retrato
 OPCAO2: Olhar a lâmpada
@@ -21,7 +21,7 @@ CRIME: 0
 ID: 2
 TIPO: BIN
 Texto:
-O retrato está em um porta-retratos simples.
+A foto está em um porta-retratos simples.
 Dois jovens idênticos encaram a câmera, sorrindo com naturalidade.
 Parecem ter algo em torno de dezessete ou dezoito anos.
 
@@ -40,8 +40,8 @@ CRIME: 0
 ID: 3
 TIPO: UNA
 Texto:
-O retrato traz uma sensação boa.
-Os dois jovens parecem felizes, despreocupados, como se nada pudesse machucar aquele momento.
+O retrato traz uma boa sensação.
+Os dois jovens parecem despreocupados, como se nada pudesse manchar aquele momento.
 
 Um calor suave nasce no peito.
 Você não sabe quem eles são, mas é como se parte de você reconhecesse aquele sorriso.
@@ -61,14 +61,14 @@ O sono chega rápido.
 Logo, um sonho se forma — claro, silencioso, visto de longe.
 
 Um dos rostos do retrato aparece.
-Ele está em pé, diante de um homem e de uma mulher que parecem ter em torno de quarenta anos.
+Ele está de pé, diante de um homem e de uma mulher que parecem ter em torno de quarenta anos.
 
 O homem tem postura rígida, braços cruzados, mas os olhos carregam cuidado.
 A mulher parece mais suave, preocupada, mas cheia de carinho.
 
 O jovem respira fundo e diz que precisa contar algo importante.
 Ele revela que a namorada está grávida.
-Diz que tentou se proteger, mas que agora não sabe o que fazer.
+Diz que tentou não sabe como aconteceu e que não sabe o que fazer.
 
 Os dois adultos trocam olhares.
 Depois, oferecem apoio.
@@ -108,7 +108,7 @@ TIPO: UNA
 Texto:
 O retrato causa um incômodo estranho.
 Os dois jovens são idênticos demais.
-Mesmo sorriso, mesmos olhos, como se fossem a mesma pessoa repetida.
+Mesmo sorriso, mesmos olhos, como se fossem a mesma pessoa.
 
 Algo aperta o peito, não de saudade, mas de inquietação.
 Você sente que há algo errado ali, mas não sabe o quê.
@@ -175,7 +175,7 @@ Diz que queria se mudar para estudar.
 Os dois trocam um olhar pesado.
 Parece que algo os preocupa.
 
-Em voz baixa, dizem que não têm condições financeiras de ajudar.
+Em voz baixa, dizem que não têm condições financeiras para ajudar.
 Não agora.
 
 O jovem tenta sorrir, mas a frustração pesa nos ombros.
@@ -188,7 +188,7 @@ ENCERRAR: false
 ID: 11
 TIPO: BIN
 Texto:
-A lâmpada brilha forte demais.
+A lâmpada brilha forte.
 A luz parece pulsar em silêncio, branca, constante, quase artificial.
 Você sente um pequeno incômodo, como se algo estivesse fora do lugar.
 OPCAO1: Continuar olhando para a lâmpada.
@@ -203,7 +203,7 @@ TIPO: BIN
 Texto:
 A luz fica ainda mais forte.
 Por um instante, o quarto parece distorcer.
-As bordas das coisas tremem, como se não fossem totalmente reais.
+As extremidades dos móveis tremem. Um terremoto que põe à prova a própria realidade.
 
 Uma leve tontura surge.
 O corpo está pesado, mas a luz continua chamando sua atenção.
@@ -218,8 +218,8 @@ ID: 13
 TIPO: UNA
 Texto:
 O tempo desaparece.
-Primeiro tudo fica branco.
-Depois, preto.
+Primeiro uma tela branca.
+Depois, preta.
 Depois, algo no meio das duas coisas.
 
 Não há som, nem cheiro, nem quarto.
@@ -238,7 +238,7 @@ Texto:
 A luz da lâmpada desaparece.
 
 E, dessa vez, quando você abre os olhos, tudo parece… sólido.
-Real de verdade.
+Real.
 As cores não tremem. O ar tem cheiro.
 O mundo tem peso.
 
@@ -305,17 +305,17 @@ TIPO: FOL
 Texto:
 Silêncio.
 
-Você fica ali, respirando devagar, sentindo cada sentido voltar ao mundo.
+Você fica ali, respirando devagar, sentindo cada faculdade retornando ao seu devido lugar.
 
 E então, algo muda.
 
 Você consegue ver um enfermeiro no canto do quarto.
 
 Ele está ali desde antes.
-Discreto. Parado.
+Discreto. Imóvel.
 Ninguém falou com ele.
 Ninguém perguntou por ele.
-Ninguém notou sua presença além de você.
+Ninguém notou a presença dele além de você.
 
 E, agora, ele se aproxima da sua cama.
 
