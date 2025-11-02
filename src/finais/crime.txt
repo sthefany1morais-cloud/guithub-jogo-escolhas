@@ -1,7 +1,199 @@
 VALOR: 1
-Texto: A verdade vem à tona — o acidente não foi um acaso.
-Você descobre o envolvimento de pessoas próximas e decide seguir em frente, sabendo que a justiça está feita.
+TEXTO:
+Naquela noite, você dorme profundamente.
+E, pela primeira vez em muito tempo, sonha.
 
-VALOR: 3
-Texto: Você se aproxima de sua família e reencontra algum conforto.
-Ainda assim, as perguntas sobre o acidente continuam em sua mente.
+No sonho, há um carro na estrada.
+A paisagem é calma.
+O céu é limpo.
+
+Dentro dele, você vê dois homens iguais — como se olhasse para um reflexo duplicado.
+Um deles dirige.
+O outro, sentado ao lado, olha pela janela, tranquilo.
+
+Não há dor.
+Não há pressa.
+Só uma sensação estranha de saudade.
+
+O carro desaparece na distância, e o sonho acaba ali — leve, silencioso, sem nada errado.
+
+Quando você acorda, não há medo.
+Só uma melancolia que você não consegue explicar.
+
+VALOR: 5
+TEXTO:
+Você dorme.
+A mente relaxa.
+E então, um sonho toma forma.
+
+A estrada é longa e vazia.
+Dentro do carro, os dois homens idênticos viajam lado a lado.
+
+O do banco do passageiro encosta a cabeça no vidro, os olhos cansados, como quem está prestes a adormecer.
+O motorista olha para ele, preocupado.
+
+Nenhum dos dois fala.
+Mas o silêncio tem peso.
+
+De repente, uma luz forte aparece à frente da estrada.
+O carro se move rápido demais.
+A imagem estoura em branco.
+
+Você acorda com o coração acelerado, sem saber por quê — como se tivesse visto uma lembrança que queria escapar.
+
+VALOR: 9
+TEXTO:
+Naquela noite, o sono chega rápido.
+E o sonho também.
+
+Você vê dois homens iguais dentro de um carro.
+O do banco ao lado segura um pequeno frasco transparente.
+O rótulo não é totalmente legível, mas uma palavra aparece, borrada:
+
+“…dol”
+
+O homem tenta mantê-lo firme, mas seus dedos tremem.
+Ele pisca devagar, lutando contra o cansaço.
+
+O motorista diz algo, mas o som não chega — só o gesto de quem tenta conversar, tentando parecer calmo demais.
+
+A estrada desaparece numa luz intensa.
+E o sonho termina.
+
+Você desperta com uma sensação ruim, como se tivesse esquecido algo importante.
+
+VALOR: 13
+TEXTO:
+O sono chega pesado, e o sonho te arrasta com ele.
+
+A cena começa dentro de um carro em movimento.
+Dois homens iguais, duas vidas acontecendo no mesmo espaço estreito.
+
+O passageiro segura o frasco com clareza dessa vez.
+O rótulo é visível:
+
+Nausedol.
+
+Ele franze o cenho.
+Pisca, confuso.
+A respiração fica lenta — o corpo pesando, como se o sono puxasse cada músculo para baixo.
+
+O motorista fala algo…
+Algo sobre a vida ser “perfeita demais”.
+
+Mas a voz some antes do fim da frase.
+
+A visão treme.
+O carro parece acelerar.
+
+E o sonho se dissolve, deixando você com uma angústia que não sabe explicar.
+
+VALOR: 17
+TEXTO:
+Seu corpo adormece.
+Sua mente não.
+
+O sonho começa rápido, violento, real.
+
+O carro corre pela estrada.
+O homem no banco percebe que está sendo dopado — olha para o frasco de Nausedol, assustado.
+
+Ele tenta reagir.
+Abre o porta-luvas com dificuldade.
+Um objeto cai na sua mão: uma chave de fenda.
+
+O motorista tenta impedir.
+Os braços se chocam.
+Os dois lutam dentro do carro.
+
+Em um movimento desesperado, o passageiro golpeia a mão do motorista.
+
+A pele se abre em forma de V, sangrando no volante.
+
+O motorista urra de dor.
+E, mesmo assim, pisa ainda mais forte no acelerador.
+
+A tela explode em branco.
+
+Você acorda com as mãos tremendo, sem entender de onde veio aquele terror.
+
+VALOR: 20
+TEXTO:
+Você finalmente dorme.
+E o sonho não poupa nada.
+
+Os dois homens discutem.
+Não é briga comum — é amarga, antiga.
+
+O motorista diz coisas duras:
+Sobre a vida perfeita.
+Sobre a mulher que deveria ter sido dele.
+Sobre os filhos que “poderiam ter sido seus”.
+
+O passageiro, já dopado pelo Nausedol, tenta reagir.
+Abre o porta-luvas.
+Acha a chave de fenda.
+Fere a mão do motorista — um corte profundo, aberto como um V.
+
+O motorista enlouquece.
+E grita, acelerando:
+
+— Se eu não posso viver a minha vida, você também não vai viver a sua!
+
+O carro dispara — rápido demais.
+
+A colisão chega.
+Você acorda sentindo que aquilo não foi sonho.
+Foi memória.
+
+Mas ainda resta uma última peça.
+
+VALOR: 22
+TEXTO:
+Quando você dorme, o sonho começa como um filme — real demais para ser apenas imaginação.
+
+Você vê os dois homens chegando ao carro com roupas iguais.
+O motorista ri, dizendo que os pais não vão conseguir distinguir quem é quem.
+É “uma pegadinha”.
+
+Ele entrega o frasco:
+
+Nausedol.
+“Melhor tomar, a viagem é longa.”
+
+O passageiro engole.
+Minutos depois, sente o corpo pesar.
+Mas o motorista não está com sono.
+Está calmo.
+Sombrio.
+
+Ele fala sobre tudo:
+Sobre a declaração para uma garota que o confundiu com o irmão.
+Sobre a vida perfeita.
+Sobre os filhos que poderiam ter sido seus.
+Sobre a carreira que não pôde seguir.
+
+O passageiro entende tarde demais.
+
+Abre o porta-luvas.
+Acha a chave de fenda.
+
+A luta é curta e desesperada.
+O golpe rasga a mão do motorista — um corte profundo, aberto como um V, sangue escorrendo pelo volante.
+
+O motorista sorri.
+Não de dor.
+De decisão.
+
+E diz:
+
+— O destino decide quem merece esse rosto.
+— Que vença o melhor gêmeo.
+
+O pé afunda no acelerador.
+O carro voa pela pista.
+A batida é inevitável.
+
+A visão explode em branco.
+
+E você acorda sabendo a verdade inteira

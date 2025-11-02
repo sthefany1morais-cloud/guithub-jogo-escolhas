@@ -26,8 +26,8 @@ public class Folha extends Arvore {
         mostrarTexto();
 
         if (this.fim) {
-            finaisFamilia.mostrarFinal(jogador.familia);
             finaisCrime.mostrarFinal(jogador.crime);
+            finaisFamilia.mostrarFinal(jogador.familia);
         }
         return this.encerrar;
     }

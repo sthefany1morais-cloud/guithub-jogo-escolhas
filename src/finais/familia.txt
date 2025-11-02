@@ -1,7 +1,127 @@
-VALOR: 1
-Texto: Você acorda dias depois e percebe que nada mudou.
-O silêncio do hospital te consome, e o mistério do acidente permanece sem resposta.
+VALOR: 11
+TEXTO:
+Após aquele dia, a vida continuou… silenciosa.
 
-VALOR: 3
-Texto: Você se aproxima de sua família e reencontra algum conforto.
-Ainda assim, as perguntas sobre o acidente continuam em sua mente.
+Luciana tentava conversar, mas ele sempre dizia que estava cansado.
+Daniel esperava conselhos, e Clara esperava colo… mas ele nunca sabia o que dizer.
+Comia, dormia, trabalhava, sem criar raízes dentro da própria casa.
+
+O tempo passou como se ele fosse apenas um hóspede na própria família.
+Os pais o chamavam para visitas, aniversários, datas importantes…
+ele quase sempre encontrava uma desculpa para não ir.
+
+Ele não era ruim.
+Apenas… ausente.
+Como se algo dentro dele nunca tivesse acordado de verdade.
+
+VALOR: 15
+TEXTO:
+
+Após aquele dia, ele tentou… ainda que não soubesse bem como.
+
+Às vezes sentava perto de Luciana no sofá, mesmo que não conversassem muito.
+Às vezes perguntava a Daniel como estava a escola…
+e Daniel respondia com frases curtas, sem saber se ele realmente queria ouvir.
+
+Clara era a única que parecia não notar.
+Ela corria até ele, segurava sua mão, e mesmo quando ele não sabia como responder, ela sorria.
+Como se isso bastasse.
+
+Os pais continuavam chamando.
+Às vezes ele ia.
+Às vezes não.
+
+Era um começo — tímido, frágil — mas dependia dele continuar.
+
+VALOR: 19
+TEXTO:
+
+Após aquele dia, ele passou a estar presente.
+
+No início era simples: levar Clara para a escola, perguntar a Daniel sobre provas, ouvir Luciana falar do trabalho.
+Ele ainda tinha silêncio dentro de si, mas agora… queria preenchê-lo.
+
+Nos jantares, ele começou a rir.
+Pouco, mas sincero.
+Nos fins de semana, ajudava Luciana com as tarefas, mesmo quando se atrapalhava.
+
+Os pais notaram a mudança.
+Chamaram-no para um almoço, e ele foi — não por obrigação, mas porque queria tentar.
+
+Ainda não era perfeito.
+Mas era real.
+
+VALOR: 23
+TEXTO:
+Após aquele dia, a casa ganhou vida de novo.
+
+Luciana já não tinha medo de perdê-lo para o silêncio,
+Daniel começou a pedir ajuda com coisas da escola,
+e Clara nunca mais dormiu sem um beijo de boa noite.
+
+Ele se pegava sorrindo à toa: preparando o café das crianças, brincando na sala, conversando com os pais ao telefone.
+
+A vida não voltou a ser como antes…
+na verdade, ficou melhor.
+Mais consciente, mais cuidadosa.
+
+Ele ainda carregava sombras, mas agora tinha mãos para segurá-las.
+
+VALOR: 27
+TEXTO:
+
+Após aquele dia, ele tomou uma decisão silenciosa:
+
+A família vinha primeiro.
+
+Começou a trabalhar menos, estar mais em casa, ouvir mais.
+Participava dos eventos da escola, assistia filmes com Daniel, e Clara se agarrava ao pescoço dele sempre que podia.
+
+Luciana, finalmente, voltou a dormir tranquila.
+
+Os pais viam nele o filho de antes — mas agora mais maduro, mais humano.
+Ele nunca mais perdeu um almoço em família.
+
+A casa não era apenas um lugar.
+Era lar.
+
+VALOR: 31
+TEXTO:
+
+Após aquele dia, tudo mudou.
+
+Ele se apaixonou por sua família de novo.
+Reaprendeu o toque, o abraço, a mania de olhar nos olhos quando dizia “eu te amo”.
+
+Daniel não precisava mais de respostas curtas — tinha conversas longas, orientações, carinho.
+Clara vivia pendurada nele, rindo alto como se o mundo fosse seguro outra vez.
+
+Luciana se tornou seu porto.
+Eles voltaram a fazer planos, viajar, sonhar.
+
+Os pais… choraram no dia em que ele disse que queria reunir todos para um jantar.
+Um simples jantar.
+Mas que tinha amor em cada detalhe.
+
+Ele não era apenas presente.
+Era essencial.
+
+VALOR: 35
+TEXTO:
+
+Após aquele dia, ele nunca mais foi o mesmo — e ainda bem.
+
+Ele acordava todos os dias sabendo exatamente onde pertencia.
+Beijava Luciana na cozinha, ajudava Daniel com projetos, carregava Clara nos ombros para ver o mundo mais alto.
+
+A casa era cheia: risos, brincadeiras, cheiro de comida, fotos novas nas paredes.
+
+Visitava os pais sempre.
+Levava as crianças, contava histórias, revivia memórias.
+E, quando abraçava a família inteira, sabia que tinha reconstruído tudo — não por obrigação, mas por amor.
+
+Ele não esqueceu o que aconteceu.
+Não precisava.
+
+Porque agora tinha algo maior para proteger:
+a vida que renasceu ao lado deles.
