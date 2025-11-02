@@ -34,7 +34,7 @@ OPCAO1: Você sente uma estranha familiaridade, como se aquela imagem fosse impo
 OPCAO2: Você sente um desconforto, como se houvesse algo errado naquele sorriso duplicado.
 FILHO1: 3
 FILHO2: 7
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 
 ID: 3
@@ -51,7 +51,7 @@ Os olhos ficam pesados e o corpo parece afundar no colchão.
 Sem perceber, você adormece outra vez.
 OPCAO1: Voltar a dormir.
 FILHO1: 4
-FAMILIA: 0
+FAMILIA: 1
 CRIME: 0
 
 ID: 4
@@ -78,7 +78,7 @@ OPCAO1: Abraçá-los
 OPCAO2: Agradecer-lhes
 FILHO1: 5
 FILHO2: 6
-FAMILIA: 0
+FAMILIA: 3
 CRIME: 0
 
 ID: 5
@@ -87,7 +87,7 @@ Texto:
 O jovem dá um passo à frente e abraça os dois.
 Não é um abraço forte, mas é sincero.
 Os pais o cercam com os braços, e por um momento o medo desaparece.
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -98,7 +98,7 @@ Texto:
 O jovem aperta as mãos dos dois, com olhos marejados.
 Ele agradece por não estar sozinho, por não ser julgado.
 A voz sai fraca, mas cheia de verdade.
-FAMILIA: 0
+FAMILIA: 1
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -120,7 +120,7 @@ Sem lutar contra o sono, você adormece.
 OPCAO1: Voltar a dormir.
 FILHO1: 8
 FAMILIA: 0
-CRIME: 0
+CRIME: 2
 
 ID: 8
 TIPO: BIN
@@ -147,7 +147,7 @@ OPCAO2: Contar sobre a faculdade.
 FILHO1: 9
 FILHO2: 10
 FAMILIA: 0
-CRIME: 0
+CRIME: 2
 
 ID: 9
 TIPO: FOL
@@ -157,8 +157,8 @@ Sozinho, arruma poucas roupas e alguns objetos.
 Naquela mesma noite, deixa a casa em silêncio.
 
 Ele não volta mais.
-FAMILIA: 0
-CRIME: 0
+FAMILIA: -2
+CRIME: 3
 FIM: false
 ENCERRAR: false
 
@@ -180,8 +180,8 @@ Não agora.
 
 O jovem tenta sorrir, mas a frustração pesa nos ombros.
 A carta dobra entre os dedos, e o brilho do momento desaparece.
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 1
+CRIME: 1
 FIM: false
 ENCERRAR: false
 
@@ -196,7 +196,7 @@ OPCAO2: Desviar o olhar.
 FILHO1: 12
 FILHO2: 18
 FAMILIA: 0
-CRIME: 0
+CRIME: 1
 
 ID: 12
 TIPO: BIN
@@ -212,7 +212,7 @@ OPCAO2: Desviar o olhar.
 FILHO1: 13
 FILHO2: 17
 FAMILIA: 0
-CRIME: 0
+CRIME: 2
 
 ID: 13
 TIPO: UNA
@@ -397,7 +397,7 @@ como se ninguém tivesse estado ali há muito tempo.
 No resto, tudo parece parado.
 O cansaço começa a pesar, e seus olhos se fecham novamente.
 FAMILIA: 0
-CRIME: 0
+CRIME: 3
 FIM: false
 ENCERRAR: false
 
@@ -412,6 +412,6 @@ Há uma dormência estranha nos braços e nas pernas.
 É como se tivesse dormido por tempo demais.
 Ainda assim, o cansaço te vence.
 FAMILIA: 0
-CRIME: 0
+CRIME: 2
 FIM: false
 ENCERRAR: false

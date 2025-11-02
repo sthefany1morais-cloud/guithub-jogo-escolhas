@@ -37,7 +37,7 @@ OPCAO1: Conversar com a mulher
 OPCAO2: Conversar com o senhor
 FILHO1: 3
 FILHO2: 6
-FAMILIA: 0
+FAMILIA: 1
 CRIME: 0
 
 ID: 3
@@ -62,7 +62,7 @@ OPCAO1: Continuar conversando com ela.
 OPCAO2: Ir falar com a garotinha que tenta pegar um balão
 FILHO1: 4
 FILHO2: 5
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 
 ID: 4
@@ -80,8 +80,8 @@ Ela sorri, com aquele olhar que derrete qualquer tensão.
 
 Vocês conversam mais um pouco.
 A festa segue leve, acolhedora.
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 4
+CRIME: 2
 FIM: true
 ENCERRAR: true
 
@@ -101,7 +101,7 @@ A mulher observa com um sorriso encantado, orgulhoso.
 Uma cena simples, mas cheia de amor.
 
 A festa continua.
-FAMILIA: 0
+FAMILIA: 4
 CRIME: 0
 FIM: true
 ENCERRAR: true
@@ -138,8 +138,8 @@ OPCAO1: Conversar com a senhora de semblante carinhoso.
 OPCAO2: Conversar com o jovem garoto que observa a mesa de doces.
 FILHO1: 7
 FILHO2: 8
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 3
+CRIME: 3
 
 ID: 7
 TIPO: FOL
@@ -163,28 +163,34 @@ Você concorda.
 A conversa flui leve.
 Mas você sente que deixou algo passar.
 E a festa segue.
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 2
+CRIME: 3
 FIM: true
 ENCERRAR: true
 
 ID: 8
 TIPO: FOL
 Texto:
-A garotinha estica os bracinhos para um balão que está alto demais.
+O garoto parece tímido à primeira vista, mas abre um sorriso quando te vê.
 
-Quando te vê, os olhos dela brilham.
+“Ei… você tá bem? Eu tô muito feliz que você voltou.”
 
-“Papai! Pega pra mim?”
+A voz treme um pouco, carregando emoção verdadeira.
 
-Você a pega no colo — leve, pequena, confiante.
-Ela agarra o balão, abraça você e ri.
+“Eu… senti sua falta.”
 
-A mulher observa com um sorriso encantado, orgulhoso.
-Uma cena simples, mas cheia de amor.
+Ele tenta disfarçar mexendo no copo de suco, mas o brilho nos olhos entrega tudo.
 
-A festa continua.
-FAMILIA: 0
+Vocês conversam sobre coisas simples: escola, jogos, pequenos detalhes do dia a dia.
+Mas o mais importante não está nas palavras.
+
+Está no jeito que ele olha para você.
+Na confiança.
+No carinho.
+Na felicidade por simplesmente ter você ali.
+
+E a festa segue.
+FAMILIA: 3
 CRIME: 0
 FIM: true
 ENCERRAR: true
@@ -201,7 +207,7 @@ OPCAO2: Prestar atenção em uma conversa ali perto.
 FILHO1: 10
 FILHO2: 13
 FAMILIA: 0
-CRIME: 0
+CRIME: 1
 
 ID: 10
 TIPO: BIN
@@ -215,7 +221,7 @@ OPCAO2: Ajudar a mulher que distribuir o bolo.
 FILHO1: 11
 FILHO2: 12
 FAMILIA: 0
-CRIME: 0
+CRIME: 1
 
 ID: 11
 TIPO: FOL
@@ -230,7 +236,7 @@ Ela olha pra você surpresa, depois sorri tão aberto que parece iluminar o rost
 Você corta o bolo em pequenos pedaços, entrega o garfo com cuidado,
 e ela, sem conseguir conter a alegria, morde a sobremesa.
 Depois te abraça pela cintura com os bracinhos pequenos, como se aquele gesto tivesse salvado o dia dela.
-FAMILIA: 0
+FAMILIA: 4
 CRIME: 0
 FIM: true
 ENCERRAR: true
@@ -246,7 +252,7 @@ Ela coloca os pratos, você entrega; ela corta, você distribui.
 
 Os dois trocam olhares rápidos e discretos sorrisos, e o clima fica mais leve, mais suave, mais íntimo.
 Quando todos pegam seus pedaços, ela respira fundo, exausta… e depois te abraça rápido, com gratidão silenciosa.
-FAMILIA: 0
+FAMILIA: 5
 CRIME: 0
 FIM: true
 ENCERRAR: true
@@ -280,8 +286,8 @@ OPCAO1: Se aproximar e falar com o homem de postura firme.
 OPCAO2: Se aproximar e falar com o rapaz calmo.
 FILHO1: 14
 FILHO2: 15
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 2
+CRIME: 4
 
 ID: 14
 TIPO: FOL
@@ -296,7 +302,7 @@ Ele segura seu ombro com cuidado, como quem tem medo de apertar demais.
 Hoje… hoje é um dia especial. Só quero aproveitar ele com você.”
 
 O olhar dele se enche de emoção, sem precisar dizer mais nada.
-FAMILIA: 0
+FAMILIA: 3
 CRIME: 0
 FIM: true
 ENCERRAR: true
@@ -315,7 +321,7 @@ Ele tenta parecer confiante, mas os olhos brilham demais para esconder o sentime
 O abraço que ele dá é cuidadoso, quase com medo de te machucar, mas cheio de carinho e saudade acumulada.
 
 E, pela primeira vez em muito tempo, você sente que pertence àquele lugar.
-FAMILIA: 0
+FAMILIA: 3
 CRIME: 0
 FIM: true
 ENCERRAR: true

@@ -81,8 +81,8 @@ OPCAO1: Demonstrar ainda mais preocupação.
 OPCAO2: Olhar para a mulher ao seu lado.
 FILHO1: 3
 FILHO2: 7
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 2
+CRIME: 1
 
 ID: 3
 TIPO: UNA
@@ -113,8 +113,8 @@ Um leve zumbido invade sua mente.
 Você começa a ver alguma coisa.
 OPCAO1: Ver.
 FILHO1: 4
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 1
+CRIME: 2
 
 ID: 4
 TIPO: BIN
@@ -166,7 +166,7 @@ OPCAO2: Ficar em silêncio
 FILHO1: 5
 FILHO2: 6
 FAMILIA: 0
-CRIME: 0
+CRIME: 2
 
 ID: 5
 TIPO: FOL
@@ -194,7 +194,7 @@ A luz do quarto diminui.
 O sono vem sem esforço.
 
 Você adormece.
-FAMILIA: 0
+FAMILIA: 3
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -231,7 +231,7 @@ A mulher ainda segura sua mão antes de se levantar, como quem promete voltar.
 O quarto escurece.
 O silêncio chega.
 O sono te leva.
-FAMILIA: 0
+FAMILIA: 1
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -260,7 +260,7 @@ OPCAO1: Sugerir um nome para um filho.
 OPCAO2: Sugerir um nome para uma filha.
 FILHO1: 8
 FILHO2: 11
-FAMILIA: 0
+FAMILIA: 3
 CRIME: 0
 
 ID: 8
@@ -285,7 +285,7 @@ OPCAO1: Tentar falar “Daniel”.
 OPCAO2: Permanecer em silêncio.
 FILHO1: 9
 FILHO2: 10
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 
 ID: 9
@@ -310,7 +310,7 @@ Ela se despede com um beijo leve na testa e promete voltar pela manhã.
 O quarto fica silencioso.
 A noite cai.
 Você adormece outra vez.
-FAMILIA: 0
+FAMILIA: 5
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -331,7 +331,7 @@ Ela beija sua testa, diz que volta pela manhã, e o quarto fica em silêncio.
 
 A noite toma o hospital.
 O sono chega leve, inevitável.
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -357,7 +357,7 @@ OPCAO1: Tentar falar “Clara”.
 OPCAO2: Permanecer em silêncio.
 FILHO1: 12
 FILHO2: 13
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 
 ID: 12
@@ -382,7 +382,7 @@ O silêncio chega.
 A noite toma o quarto.
 
 Você dorme.
-FAMILIA: 0
+FAMILIA: 5
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -402,7 +402,7 @@ Depois, sai para que você descanse.
 
 A escuridade envolve o quarto.
 Você apaga em sono profundo.
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -427,7 +427,7 @@ OPCAO2: Continuar em silêncio.
 FILHO1: 15
 FILHO2: 19
 FAMILIA: 0
-CRIME: 0
+CRIME: 1
 
 ID: 15
 TIPO: UNA
@@ -444,7 +444,7 @@ Os sons do hospital desaparecem.
 O mundo muda.
 OPCAO1: Ver.
 FILHO1: 16
-FAMILIA: 0
+FAMILIA: 1
 CRIME: 0
 
 ID: 16
@@ -485,7 +485,7 @@ OPCAO1: Olhar para a mulher ao lado.
 OPCAO2: Continuar em silêncio.
 FILHO1: 17
 FILHO2: 18
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 
 ID: 17
@@ -515,7 +515,7 @@ O quarto silencia.
 O sono vai tomando você.
 
 Você adormece.
-FAMILIA: 0
+FAMILIA: 4
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -544,7 +544,7 @@ A respiração fica leve.
 O sono chega.
 
 Você adormece.
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -570,7 +570,7 @@ A luz parece ficar mais fraca, depois mais forte.
 Um cenário começa a se formar diante de você.
 OPCAO1: Ver.
 FILHO1: 20
-FAMILIA: 0
+FAMILIA: 1
 CRIME: 0
 
 ID: 20
@@ -615,8 +615,8 @@ OPCAO1: Olhar para a mulher ao lado.
 OPCAO2: Continuar em silêncio.
 FILHO1: 21
 FILHO2: 22
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 1
+CRIME: 2
 
 ID: 21
 TIPO: FOL
@@ -646,7 +646,7 @@ Você fecha os olhos devagar.
 O sono vence.
 
 Você adormece.
-FAMILIA: 0
+FAMILIA: 3
 CRIME: 0
 FIM: false
 ENCERRAR: false

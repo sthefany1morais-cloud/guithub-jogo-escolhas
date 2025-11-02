@@ -81,8 +81,8 @@ OPCAO1: Abraçar o garoto.
 OPCAO2: Segurar a garotinha.
 FILHO1: 3
 FILHO2: 6
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 4
+CRIME: 3
 
 ID: 3
 TIPO: BIN
@@ -118,8 +118,8 @@ OPCAO1: Dizer que o ama.
 OPCAO2: Abraçá-lo.
 FILHO1: 4
 FILHO2: 5
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 5
+CRIME: 2
 
 ID: 4
 TIPO: FOL
@@ -137,8 +137,8 @@ O homem sorri e o abraça, dizendo:
 — Eu disse que te amo muito.
 
 O momento se encerra ali, com o calor do abraço e a segurança transmitida entre os dois.
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 1
+CRIME: 3
 FIM: false
 ENCERRAR: false
 
@@ -151,7 +151,7 @@ Enquanto permanecem assim, ele diz:
 — Eu te amo muito.
 
 O abraço permanece, silencioso e cheio de significado, encerrando o momento de conexão entre eles.
-FAMILIA: 0
+FAMILIA: 3
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -187,8 +187,8 @@ OPCAO1: Dizer a a ama
 OPCAO2: Segurar ela
 FILHO1: 7
 FILHO2: 8
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 5
+CRIME: 3
 
 ID: 7
 TIPO: FOL
@@ -210,8 +210,8 @@ Ela sorri e responde com uma risadinha:
 — Eu também te amo.
 
 O momento se encerra com o calor desse afeto compartilhado, transmitindo segurança e carinho mútuos.
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 1
+CRIME: 3
 FIM: false
 ENCERRAR: false
 
@@ -224,8 +224,8 @@ Enquanto permanecem assim, ele diz suavemente:
 — Eu te amo muito.
 
 O abraço permanece, silencioso e cheio de significado, reforçando o vínculo entre os dois.
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 3
+CRIME: 1
 FIM: false
 ENCERRAR: false
 
@@ -258,8 +258,8 @@ OPCAO1: Chamar as crianças
 OPCAO2: Explorar a casa
 FILHO1: 10
 FILHO2: 13
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 1
+CRIME: 1
 
 ID: 10
 TIPO: BIN
@@ -283,7 +283,7 @@ OPCAO1: Ver o que está surgindo
 OPCAO2: Abraçar a mulher e as crianças
 FILHO1: 11
 FILHO2: 12
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 
 ID: 11
@@ -309,8 +309,8 @@ Agora o salão está do mesmo jeito, o bolo ainda está ali,
 mas o homem idêntico aparece conversando não mais com o garoto, e sim com uma garotinha de aproximadamente 4 anos.
 
 A visão continua, como se fosse um filme passando diante de você…
-FAMILIA: 0
-CRIME: 0
+FAMILIA: 4
+CRIME: 3
 FIM: false
 ENCERRAR: false
 
@@ -329,7 +329,7 @@ Mesmo sem entender tudo, seu corpo reconhece aquele abraço antes da mente.
 
 A sensação é boa.
 Quase boa demais.
-FAMILIA: 0
+FAMILIA: 5
 CRIME: 0
 FIM: false
 ENCERRAR: false
@@ -346,7 +346,7 @@ OPCAO1: Ir para o quarto
 OPCAO2: Ir para o escritório
 FILHO1: 14
 FILHO2: 15
-FAMILIA: 0
+FAMILIA: 2
 CRIME: 0
 
 ID: 14
@@ -420,6 +420,6 @@ Talvez um dia consiga."
 A letra continua firme, mas carregada.
 Parece um desabafo profundo...
 FAMILIA: 0
-CRIME: 0
+CRIME: 3
 FIM: false
 ENCERRAR: false
