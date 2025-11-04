@@ -12,7 +12,6 @@ public class ArvoreDeFinais {
     }
 
     public void inserir(String texto, int valor) {
-        System.out.println(valor);
         if (valor < this.valor) {
             if (this.esquerda == null) {
                 this.esquerda = new ArvoreDeFinais(texto, valor);
