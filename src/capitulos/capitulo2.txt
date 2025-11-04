@@ -25,7 +25,7 @@ A médica percebe que você abriu os olhos e se aproxima com calma.
 — Cael? — a voz dela é baixa, suave, quase cuidadosa demais — Você está me ouvindo?
 Não precisa falar ainda. Só me escute, tudo bem?
 
-Ela faz algumas perguntas simples, mais para avaliar sua resposta do que para obter palavras.
+Ela faz algumas perguntas simples para avaliar sua capacidade de fala.
 Você ainda não consegue responder, mas ela sorri, aliviada.
 
 — Tudo certo. Seu cérebro está reagindo bem.
@@ -76,7 +76,7 @@ A médica percebe antes que ele tente insistir.
 Ela observa o modo como ele tenta levantar um pouco a cabeça,
  como procura entender, como o olhar dele denuncia medo e dúvida.
 
-— Eu sei que você quer respostas — completa a médica — e vamos com calma, tudo bem?
+— Eu sei que você quer respostas — complementa a médica — e vamos com calma, tudo bem?
 OPCAO1: Demonstrar ainda mais preocupação.
 OPCAO2: Olhar para a mulher ao seu lado.
 FILHO1: 3
@@ -126,8 +126,7 @@ De repente, duas figuras surgem diante de você, como se fossem recortadas da su
 
 Dois homens.
 Cerca de 30 anos.
-A aparência é tão semelhante que parece que foram feitos em cópia
-altura, rosto, postura… até mesmo a roupa é idêntica.
+A aparência é tão semelhante que parecem um. Altura, rosto, postura… até mesmo a roupa é idêntica.
 
 Eles conversam ao lado de um carro estacionado.
 
@@ -147,7 +146,7 @@ O outro ri, balançando a cabeça:
 - Tá bom, eu tomo. Pelo menos a gente vai chegar inteiro.
 
 A cena é simples… quase banal.
-Mas você sente, no fundo, que aquilo tem um peso que não consegue explicar.
+Mas você sente, no fundo, que aquilo tem um peso oculto.
 Não sabe por quê.
 Só sabe que é importante.
 
@@ -183,7 +182,7 @@ A médica sorri, satisfeita.
 
 — Isso é ótimo — ela diz. — Continue assim. Seu corpo está voltando.
 
-A mulher permanece ali por alguns minutos, só olhando para você.
+A mulher permanece ali por alguns minutos, apenas olhando para você.
 Então a enfermeira sugere que o deixem descansar.
 
 Um último aperto na sua mão.
@@ -206,8 +205,7 @@ Seu corpo continua imóvel.
 Sem palavras.
 Sem movimentos.
 
-Mas diferente de antes, há algo no seu olhar.
-Alguma consciência desperta.
+Mas diferente de antes, há algo no seu olhar. Uma consciência desperta.
 
 A médica percebe primeiro:
 
@@ -304,7 +302,7 @@ Ele foi a força da família enquanto você estava aqui.
 
 Ela beija sua mão com carinho.
 
-Depois de alguns minutos, para que você descanse, a equipe pede para que ela te deixe dormir de novo.
+Depois de alguns minutos a equipe pede para que ela te deixe dormir novamente, para se recuperar de maneira adequada.
 Ela se despede com um beijo leve na testa e promete voltar pela manhã.
 
 O quarto fica silencioso.
@@ -325,7 +323,7 @@ Ela apenas segura sua mão com as duas mãos, encostando a testa nela.
 Eu sei que você está lembrando.
 Um passo de cada vez.
 
-Ela permanece ali por alguns minutos, só presente, só respirando junto com você.
+Ela permanece ali por alguns minutos, só presente, respirando junto com você.
 Depois, a equipe pede para deixá-lo descansar.
 Ela beija sua testa, diz que volta pela manhã, e o quarto fica em silêncio.
 
@@ -347,7 +345,7 @@ Acho lindo.
 A garota aperta a mão dele, emocionada:
 
 — Clara… é perfeito.
-Tão doce, tão iluminada… imagino ela sendo a luz da casa.
+Tão doce, tão iluminada…, eu imagino ela sendo a luz da casa.
 
 A imagem se desfaz com lentidão, como se alguém fechasse uma cortina transparente.
 
@@ -434,8 +432,7 @@ TIPO: UNA
 Texto:
 Você vira o rosto devagar.
 Ela sente.
-Os olhos dela se abrem, brilhando instantaneamente
-Como se aquele simples movimento fosse um milagre acontecendo na frente dela.
+Os olhos dela se abrem, brilhando instantaneamente como se aquele simples movimento fosse um milagre acontecendo na frente dela.
 
 Antes que tente falar, algo diferente acontece.
 
@@ -455,7 +452,7 @@ Luzes.
 Som de risadas.
 
 Você visualiza dois adolescentes — cerca de 15 anos — em meio a um grande encontro de família e amigos.
-Parentes, crianças, gente conversando, comendo, rindo.
+Parentes, crianças, pessoas conversando, comendo, sorrindo.
 Um clima leve, festivo.
 
 O garoto respira fundo, chamando a atenção de todos:
@@ -464,7 +461,7 @@ O garoto respira fundo, chamando a atenção de todos:
 ele olha para a garota ao lado, sorrindo
 — dizer que eu e a Luciana estamos namorando agora.
 
-A garota ri meio sem graça e empurra o ombro dele com carinho.
+A garota sorri meio sem graça e empurra o ombro dele com carinho.
 
 — Ah, Cael…
 
@@ -593,8 +590,7 @@ Depois ela sussurra:
 — Eu também amo você.
 
 Eles ficam assim por um momento.
-Depois ela beija ele devagar, com carinho, enquanto ao fundo a festa continua viva
-Mas eles só se importam um com o outro.
+Depois ela beija ele suavemente, com carinho, enquanto ao fundo a festa continua viva mas eles só se importam um com o outro.
 
 A cena é bonita.
 Quente.
@@ -638,7 +634,7 @@ Só deixam claro que estão ali.
 Com você.
 
 Pouco depois, elas decidem deixá-lo descansar.
-A mulher fica mais um pouco, em silêncio, apenas olhando para você com um carinho calmo.
+A mulher fica mais um pouco, em silêncio, apenas olhando para você com um calmante.
 
 A noite chega.
 Você fecha os olhos devagar.
