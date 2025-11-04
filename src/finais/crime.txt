@@ -62,6 +62,19 @@ E o sonho termina.
 
 Você desperta com uma sensação ruim, como se tivesse esquecido algo importante.
 
+
+VALOR: -50
+TEXTO: ...
+
+VALOR: -100
+TEXTO: ...
+
+VALOR: 50
+TEXTO: ...
+
+VALOR: 100
+TEXTO: ...
+
 VALOR: 13
 TEXTO:
 O sono chega pesado, e o sonho te arrasta com ele.

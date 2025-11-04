@@ -11,12 +11,6 @@ public class ConstrutorJogo {
 
     public ConstrutorJogo(){};
 
-    public Arvore criarArvore(){
-        List<NoTemporario> temp = lerArvores();
-        List<Arvore> real = criarArvores(temp);
-        return conectarFilhos(temp, real);
-    }
-
     public void executarJogo(int maximo){
         Jogador jogador = new Jogador();
         for (int i = 1; i <= maximo; i++){
@@ -24,15 +18,29 @@ public class ConstrutorJogo {
             String arq = "src/capitulos/capitulo" + i + ".txt";
             Arvore capitulo = new ConstrutorJogo(arq).criarArvore();
 
+            System.out.printf("\n---CAPITULO %d---\n", i);
+
             boolean encerrar = capitulo.executar(jogador);
 
             if (encerrar){
                 break;
             }
-            System.out.printf("\n---FIM DO CAPITULO %d---\n", i);
 
         }
         System.out.print("\n---Fim de jogo---");
+    }
+
+    public Arvore criarArvore(){
+        List<NoTemporario> temp = lerArvores();
+        List<Arvore> real = criarArvores(temp);
+        return conectarFilhos(temp, real);
+    }
+
+    public ArvoreDeFinais criarArvoreDeFinais(){
+        Map<Integer, String> correspondentes = lerFinais();
+        List<Integer> valores = new ArrayList<>(correspondentes.keySet());
+        return montarArvoreDeFinais(correspondentes, valores, 0, valores.size()-1);
+
     }
 
     private List<NoTemporario> lerArvores(){
@@ -203,7 +211,7 @@ public class ConstrutorJogo {
                 String linha = leitor.nextLine().trim();
 
                 if (lendo &&
-                        !linha.split(":", 2)[0].equalsIgnoreCase("VALOR")){
+                        !linha.split(":", 2)[0].equalsIgnoreCase("VALOR")) {
                     texto.append(linha).append("\n");
                 }
 
@@ -222,12 +230,12 @@ public class ConstrutorJogo {
 
                 switch (chave.toUpperCase()) {
                     case "VALOR":
-                        if (atual != null){
+                        if (atual != null) {
                             nos.put(Integer.parseInt(atual), texto.toString().trim());
                             texto.setLength(0);
                             lendo = false;
                         }
-                            atual = valor;
+                        atual = valor;
                         break;
 
                     case "TEXTO":
@@ -237,8 +245,8 @@ public class ConstrutorJogo {
                         break;
 
                 }
-
-            } if (atual != null) {
+            }
+            if (atual != null){
                 nos.put(Integer.parseInt(atual), texto.toString().trim());
             }
         } catch (Exception e){
@@ -251,9 +259,9 @@ public class ConstrutorJogo {
         if (inicio> fim){
             return null;
         }
-
         int meio = (inicio + fim)/2;
         int valor = chaves.get(meio);
+        //System.out.println(valor);
 
         ArvoreDeFinais raiz = new ArvoreDeFinais(mapa.get(valor), valor);
 
@@ -261,18 +269,14 @@ public class ConstrutorJogo {
         ArvoreDeFinais direita = montarArvoreDeFinais( mapa, chaves, meio+1, fim);
 
         if (esquerda != null){
+            //System.out.println("esquerda "+valor);
             raiz.inserir(esquerda.texto, esquerda.valor);
         }
         if (direita != null){
+            //System.out.println("direita "+ valor);
             raiz.inserir(direita.texto, direita.valor);
         }
         return raiz;
     }
 
-    public ArvoreDeFinais criarArvoreDeFinais(){
-        Map<Integer, String> correspondentes = lerFinais();
-        List<Integer> valores = new ArrayList<>(correspondentes.keySet());
-        return montarArvoreDeFinais(correspondentes, valores, 0, valores.size()-1);
-
-    }
 }

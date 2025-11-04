@@ -51,6 +51,18 @@ Chamaram-no para um almoço, e ele foi — não por obrigação, mas porque quer
 Ainda não era perfeito.
 Mas era real.
 
+VALOR: -50
+TEXTO: ...
+
+VALOR: -100
+TEXTO: ...
+
+VALOR: 50
+TEXTO: ...
+
+VALOR: 100
+TEXTO: ...
+
 VALOR: 23
 TEXTO:
 Após aquele dia, a casa ganhou vida de novo.
@@ -125,3 +137,9 @@ Não precisava.
 
 Porque agora tinha algo maior para proteger:
 a vida que renasceu ao lado deles.
+
+VALOR: 50
+TEXTO: ...
+
+VALOR: 100
+TEXTO: ...

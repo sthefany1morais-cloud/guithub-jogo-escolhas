@@ -12,6 +12,7 @@ public class ArvoreDeFinais {
     }
 
     public void inserir(String texto, int valor) {
+        System.out.println(valor);
         if (valor < this.valor) {
             if (this.esquerda == null) {
                 this.esquerda = new ArvoreDeFinais(texto, valor);
@@ -30,13 +31,15 @@ public class ArvoreDeFinais {
     }
 
     public void mostrarFinal(int pontos) {
-        if (pontos < this.valor && esquerda != null && (this.valor - pontos) > (esquerda.valor - pontos)) {
+
+        if (pontos < this.valor && esquerda != null && Math.abs(this.valor - pontos) > Math.abs(esquerda.valor - pontos)) {
             this.esquerda.mostrarFinal(pontos);
-        } else if (pontos > this.valor && direita != null && (pontos - this.valor) > (pontos - direita.valor)) {
+        } else if (pontos > this.valor && direita != null && Math.abs(pontos - this.valor) > Math.abs(pontos - direita.valor)) {
             this.direita.mostrarFinal(pontos);
-        } else {
+        }else {
             Utilidades.imprimirComPausa(this.texto);
         }
+
     }
 }
 

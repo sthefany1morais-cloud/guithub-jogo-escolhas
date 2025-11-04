@@ -24,7 +24,6 @@ public class Folha extends Arvore {
         jogador.addCrime(crime);
 
         mostrarTexto();
-
         if (this.fim) {
             finaisCrime.mostrarFinal(jogador.crime);
             finaisFamilia.mostrarFinal(jogador.familia);
