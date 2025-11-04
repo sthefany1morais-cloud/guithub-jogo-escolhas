@@ -261,7 +261,6 @@ public class ConstrutorJogo {
         }
         int meio = (inicio + fim)/2;
         int valor = chaves.get(meio);
-        //System.out.println(valor);
 
         ArvoreDeFinais raiz = new ArvoreDeFinais(mapa.get(valor), valor);
 
@@ -269,11 +268,9 @@ public class ConstrutorJogo {
         ArvoreDeFinais direita = montarArvoreDeFinais( mapa, chaves, meio+1, fim);
 
         if (esquerda != null){
-            //System.out.println("esquerda "+valor);
             raiz.inserir(esquerda.texto, esquerda.valor);
         }
         if (direita != null){
-            //System.out.println("direita "+ valor);
             raiz.inserir(direita.texto, direita.valor);
         }
         return raiz;
